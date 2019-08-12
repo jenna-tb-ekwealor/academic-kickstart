@@ -18,7 +18,9 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: When observing the natural world, I am driven to ask how? How does it do that? How did this happen? I am most fascinated by the very small: those organisms that are easily overlooked by macrobes like ourselves. I am also excited by extremophiles: those that can survive and thrive in conditions thought to be difficult for life itself. I find these interests come together easily in studying mosses. These small plants have found a way to only truly ‘live’ when conditions are right (that is, when enough water is present), and dry out to go completely inert when water is absent. For desert mosses that is most of the time! Yet, seemingly miraculously, dryland mosses are able to quickly begin to grow and thrive again, while recovering from damage that accumulated while they were desiccated and quiescent. I find this process inspiring and it intrigues me to think about the evolutionary, both micro and macro, implications of this lifestyle.
+bio: I am a PhD Candidate studying evolution & ecology of desiccation-tolerant desert mosses.
+
+# When observing the natural world, I am driven to ask how? How does it do that? How did this happen? I am most fascinated by the very small: those organisms that are easily overlooked by macrobes like ourselves. I am also excited by extremophiles: those that can survive and thrive in conditions thought to be difficult for life itself. I find these interests come together easily in studying mosses. These small plants have found a way to only truly ‘live’ when conditions are right (that is, when enough water is present), and dry out to go completely inert when water is absent. For desert mosses that is most of the time! Yet, seemingly miraculously, dryland mosses are able to quickly begin to grow and thrive again, while recovering from damage that accumulated while they were desiccated and quiescent. I find this process inspiring and it intrigues me to think about the evolutionary, both micro and macro, implications of this lifestyle.
 
 interests:
 - Evolutionary Biology
