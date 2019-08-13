@@ -9,15 +9,6 @@ title = "Gallery"
 subtitle = ""
 +++
 
-{{< gallery >}}
-
----
-layout: default
-title: J.T.B. Ekwealor | Photography
----
-	<section>
-	<br>
-	<h1>Photography</h1>
 
 <div class='pixels-photo'">
   <p>
@@ -111,8 +102,4 @@ title: J.T.B. Ekwealor | Photography
 </div><!-- /.blurb -->
 
 <div class=blurb>
-<p> See more on <a href="https://500px.com/jennatbekwealor" target="_blank">500px.com.<font size="-1"><sup>&#8599;</font></sup></a></p></div>   
-
-
-</section> 
 
