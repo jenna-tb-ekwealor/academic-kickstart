@@ -15,12 +15,11 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of California, Berkeley
-  url: ""
+  url: "bryolab.berkeley.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Candidate studying evolution & ecology of desiccation-tolerant desert mosses.
+bio: I am a UC Berkeley PhD Candidate studying evolution & ecology of desiccation-tolerant desert mosses.
 
-# When observing the natural world, I am driven to ask how? How does it do that? How did this happen? I am most fascinated by the very small: those organisms that are easily overlooked by macrobes like ourselves. I am also excited by extremophiles: those that can survive and thrive in conditions thought to be difficult for life itself. I find these interests come together easily in studying mosses. These small plants have found a way to only truly ‘live’ when conditions are right (that is, when enough water is present), and dry out to go completely inert when water is absent. For desert mosses that is most of the time! Yet, seemingly miraculously, dryland mosses are able to quickly begin to grow and thrive again, while recovering from damage that accumulated while they were desiccated and quiescent. I find this process inspiring and it intrigues me to think about the evolutionary, both micro and macro, implications of this lifestyle.
 
 interests:
 - Evolutionary Biology
@@ -57,11 +56,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/jenna-tb-ekwealor
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+#- icon: cv
+#   icon_pack: ai
+#   link: "files/cv.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: jenna.ekwealor@gmail.com
@@ -75,6 +75,6 @@ email: jenna.ekwealor@gmail.com
 
 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a PhD Candidate in Integrative Biology at UC Berkeley. When observing the natural world, I am driven to ask how? How does it do that? How did this happen? I am most fascinated by the very small: those organisms that are easily overlooked by macrobes like ourselves. I am also excited by extremophiles: those that can survive and thrive in conditions thought to be difficult for life itself. I find these interests come together easily in studying mosses. These small plants have found a way to only truly ‘live’ when conditions are right (that is, when enough water is present), and dry out to go completely inert when water is absent. For desert mosses that is most of the time! Yet, seemingly miraculously, dryland mosses are able to quickly begin to grow and thrive again, while recovering from damage that accumulated while they were desiccated and quiescent. I find this process inspiring and it intrigues me to think about the evolutionary, both micro and macro, implications of this lifestyle.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I'm also an artist. I've loved to paint and draw for as long as I can remember. As a high school student I went back-and-forth for a long time, trying to decide to go to art school or to pursue science. Ultimately, I chose to major in biology and head towards a career in research. However I still take art classes when I can and continue to paint as a hobby.
