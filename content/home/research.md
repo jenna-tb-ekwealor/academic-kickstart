@@ -3,14 +3,14 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "research"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -26,13 +26,21 @@ subtitle = ""
   #   tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  #   name = "Bioinformatics"
+  #   tag = "Data Science, Bioinformatics, Big Data"
   
   # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  #   name = "Field Research"
+  #   tag = "Field Work, Outdoor Science"
+  
+  # [[content.filter_button]]
+  #   name = "Population Genetics"
+  #   tag = "PopGen"
 
+  # [[content.filter_button]]
+  #   name = "Botanical Studies"
+  #   tag = "Botany, Flora"
+   
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
@@ -65,7 +73,7 @@ subtitle = ""
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+   text_color_light = false  
   
 [advanced]
  # Custom CSS. 
@@ -74,4 +82,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
