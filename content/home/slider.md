@@ -41,7 +41,7 @@ height = ""
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "outreach.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
   
   cta_label = "See more"
    cta_url = "jennaekwealor.netifly.com/projects"
@@ -65,7 +65,7 @@ height = ""
    [[item]]
   title = "Experimental Botany"
   content = "Growth Chamber & Wet Lab"
-  align = "left"
+  align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "syntrichia.jpg"  # Image path relative to your `static/img/` folder.
