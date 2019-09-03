@@ -12,6 +12,11 @@ date: 2019-08-06T18:15:21-07:00
 lastmod: 2019-08-06T18:15:21-07:00
 featured: true
 draft: false
+reading_time: true
+share: true  # Show social sharing links?
+profile: true  # Show author profile?
+commentable: true  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
+editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
