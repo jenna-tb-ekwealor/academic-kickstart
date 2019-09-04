@@ -19,12 +19,11 @@ draft: false
 
 image: 
   caption: "Tucson sunsets **heart eyes emoji**"
-  focal_point: Smart
+  focal_point: "Smart"
   preview_only: false
 
 image: "deanposter.JPG"
 caption: "My undergraduate mentee Dean explaining is project to Dr. Andrew Thornhill (former Mishler lab post-doc!)"
-focal_point: Smart
 preview_only: false
   
 # Projects (optional).
