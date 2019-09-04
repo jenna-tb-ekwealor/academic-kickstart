@@ -8,7 +8,7 @@ authors: []
 tags: 
 - Professional events
 - Travel
-categories: [conferences]
+categories: [Conferences]
 date: 2019-08-06T18:15:21-07:00
 lastmod: 2019-08-06T18:15:21-07:00
 featured: false

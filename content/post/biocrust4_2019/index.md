@@ -3,12 +3,12 @@
 
 title: "Biocrust4 2019 in Minjerribah, Australia"
 subtitle: ""
-summary: "Re-cap of a large, national conference with many participating professional societies."
+summary: "Re-cap of a small international conference centered around the study of biological soil crusts and their organisms."
 authors: []
 tags: 
 - Professional events
 - Travel
-categories: [conferences]
+categories: [Conferences]
 date: 2019-09-04T18:15:21-07:00
 lastmod: 2019-09-04T18:15:21-07:00
 featured: true
