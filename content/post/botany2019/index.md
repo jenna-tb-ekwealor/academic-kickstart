@@ -32,14 +32,6 @@ image:
 projects: ["3dmoss","uvfield","uvchamber","blueprintearth"]
 
 
----
-
-This year the large, national conference hosted by the Botanical Society of America (jointly with several smaller scientific and botanical societies) was held in the beautiful Tucson, Arizona. I had never been to Tucson and I was utterly blown away with how beautiful it is. I work in the Mojave and I love it, of course, but WOW, the Sonoran is something else. It is so green, even in the middle of summer! And in less than a week we were lucky to get two rainfalls; one lovely sprinkling and one massive monsoon. We also saw so many animals. The place is absolutely riddled with quails and mourning doves. I also saw quite a few cottontail rabbits. The first day there I saw a gorgeous Western diamondback rattlesnake and my friends saw a bobcat. Others at the conference saw a family of javelinas, an extremely large (and perhaps non-native) bullfrog, a coyote, and a roadrunner. Not to mention all the incredible plants! Like the hills of saguaro!!
-
-Botany this year was also cool for another, more scholarly reason. I found it really inspiring and motivating, which really could not have come at a better time. I’m starting the 5th year of my PhD program and things are starting to wrap up. It’s a lot of pressure and sometimes I question if this career path is worth it, and if my research is worth it. However I had such excellent discussions about my projects and saw such inspiring presentations that I really feel moved to keep going, and with more umph. Plus, it was itself a reunion of so many I have worked with or went to school with will working within “botany” and it was so lovely to see them. it gave me a taste of what the rest of my career could be like: annual meet-ups with people I know, value, and can learn from who are now all over the country (or world!). It felt like a family reunion in a lot of ways, but a botanical family. A mossfam, even. It was nice, and I’m ready to knock out this PhD.
-
-{{< gallery album="botany2019album" >}}
-
 gallery_item:
 - album: botany2019album
   image: deanposter.JPG
@@ -69,3 +61,12 @@ gallery_item:
 - album: botany2019album
   image: brentposter.JPG
   caption: Kirsten Fisher (my master’s advisor! and collaborator with the 3D Moss project), Mel Oliver (collaborator with the 3D Moss project), Anita Antoninka (collaborator with the 3D Moss project), Brent Mishler (my PhD advisor), and Sotodeh Ebrahimi (my friend and collaborator with the 3D Moss project). Cheers to Brent’s first ever poster!!!
+
+---
+
+This year the large, national conference hosted by the Botanical Society of America (jointly with several smaller scientific and botanical societies) was held in the beautiful Tucson, Arizona. I had never been to Tucson and I was utterly blown away with how beautiful it is. I work in the Mojave and I love it, of course, but WOW, the Sonoran is something else. It is so green, even in the middle of summer! And in less than a week we were lucky to get two rainfalls; one lovely sprinkling and one massive monsoon. We also saw so many animals. The place is absolutely riddled with quails and mourning doves. I also saw quite a few cottontail rabbits. The first day there I saw a gorgeous Western diamondback rattlesnake and my friends saw a bobcat. Others at the conference saw a family of javelinas, an extremely large (and perhaps non-native) bullfrog, a coyote, and a roadrunner. Not to mention all the incredible plants! Like the hills of saguaro!!
+
+Botany this year was also cool for another, more scholarly reason. I found it really inspiring and motivating, which really could not have come at a better time. I’m starting the 5th year of my PhD program and things are starting to wrap up. It’s a lot of pressure and sometimes I question if this career path is worth it, and if my research is worth it. However I had such excellent discussions about my projects and saw such inspiring presentations that I really feel moved to keep going, and with more umph. Plus, it was itself a reunion of so many I have worked with or went to school with will working within “botany” and it was so lovely to see them. it gave me a taste of what the rest of my career could be like: annual meet-ups with people I know, value, and can learn from who are now all over the country (or world!). It felt like a family reunion in a lot of ways, but a botanical family. A mossfam, even. It was nice, and I’m ready to knock out this PhD.
+
+{{< gallery album="botany2019album" >}}
+
