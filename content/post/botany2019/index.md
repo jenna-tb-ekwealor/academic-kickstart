@@ -49,6 +49,10 @@ gallery_item:
   image: ixchelposter.JPG
   caption: My lab-mate Ixchel absolutely killing it at her poster!
   
+  - album: botany2019album
+  image: maryamjenna.JPG
+  caption: Fellow UCB Integrative Biology grad student Maryam and I schmoozing at a conference reception.
+  
 - album: botany2019album
   image: sky.JPG
   caption: After a hectic layover in San Diego, I was treated with an absolutely breathtaking view of the sunset over the ocean.
