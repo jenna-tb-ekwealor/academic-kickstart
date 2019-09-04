@@ -22,10 +22,7 @@ image:
   focal_point: "Smart"
   preview_only: false
 
-image: "deanposter.JPG"
-caption: "My undergraduate mentee Dean explaining is project to Dr. Andrew Thornhill (former Mishler lab post-doc!)"
-preview_only: false
-  
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
