@@ -7,22 +7,57 @@ summary: "Re-cap of a large, national conference with many participating profess
 authors: []
 tags: 
 - Professional events
-categories: ["travel"]
+categories: []
 date: 2019-08-06T18:15:21-07:00
 lastmod: 2019-08-06T18:15:21-07:00
 featured: true
 draft: false
-reading_time: true
-share: true  # Show social sharing links?
-profile: true  # Show author profile?
-commentable: true  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
-editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
-
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 
+image: sotodehposter.JPG
+  caption: "Sotodeh and her beautiful work of art poster and research project!"
+  focal_point: Smart
+  preview_only: false
+  
+  image: deanposter.JPG
+  caption: "My undergraduate mentee Dean explaining is project to Dr. Andrew Thornhill (former Mishler lab post-doc!)
+"
+  focal_point: Smart
+  preview_only: false
+  
+  image: snake.jpeg
+  caption: "WESTERN. DIAMONDBACK. RATTLESNAKE. I fangirled so hard."
+  focal_point: Smart
+  preview_only: false
+  
+  image: elevatormariachi.JPG
+  caption: "A bunch of Cal nerds and a mariachi band walk into an elevator…"
+  focal_point: Smart
+  preview_only: false
+  
+  image: ixchelposter.JPG
+  caption: "My lab-mate Ixchel absolutely killing it at her poster!"
+  focal_point: Smart
+  preview_only: false
+
+
+  image: sky.JPG
+  caption: "After a hectic layover in San Diego, I was treated with an absolutely breathtaking view of the sunset over the ocean."
+  focal_point: Smart
+  preview_only: false
+
+  image: sky.JPG
+  caption: "After a hectic layover in San Diego, I was treated with an absolutely breathtaking view of the sunset over the ocean."
+  focal_point: Smart
+  preview_only: false
+  
+  image: brentposter.JPG
+  caption: "Kirsten Fisher (my master’s advisor! and collaborator with the 3D Moss project), Mel Oliver (collaborator with the 3D Moss project), Anita Antoninka (collaborator with the 3D Moss project), Brent Mishler (my PhD advisor), and Sotodeh Ebrahimi (my friend and collaborator with the 3D Moss project). Cheers to Brent’s first ever poster!!!"
+  focal_point: Smart
+  preview_only: false
   
 # Projects (optional).
 #   Associate this post with one or more of your projects.
