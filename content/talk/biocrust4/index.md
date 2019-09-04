@@ -2,15 +2,15 @@
 title: UV tolerance in Mojave Desert mosses
 event: Biocrust4
 event_url: https://agriculture.uq.edu.au/event/biocrust4
-location: North Stradbroke Island, Queensland, Australia
+location: Minjerribah (North Stradbroke Island), Queensland, Australia
 summary: The photosynthetic and transcriptomic effects of a year-long UV-reduction experiment on natural populations of *Syntrichia caninervis*.
 abstract: Terrestrial mosses dehydrate and go quiescent between precipitation events. Although many mosses are found in cool, low light environments, a number are abundant in drylands. We investigated the effects of ultraviolet (UV) radiation on the desert moss *Syntrichia caninervis*. This species is highly desiccation tolerant; it can lose almost all of its cellular water and recover after rehydration. In nature, desert mosses not only have to withstand the damage of desiccation itself but must also be able to recover from any damage incurred while dry, or have adequate mechanisms for injury prevention. They have no ability for active repair when quiescent and face risk of damage to sensitive molecules, including DNA, which absorbs UV wavelengths. We used chlorophyll fluorescence and transcriptomics in field and laboratory experiments to better understand the dimensions of UV tolerance in *S. caninervis*. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: "2019-08-01T13:00:00Z"
+date: "2019-08-26T13:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
-# all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 # publishDate: "2030-06-01T15:00:00Z"
@@ -53,14 +53,3 @@ projects:
 math: true
 ---
 
-#{{% alert note %}}
-#Click on the **Slides** button above to view the built-in slides feature.
-#{{% /alert %}}
-
-#Slides can be added in a few ways:
-
-#- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-#Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
