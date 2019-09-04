@@ -36,28 +36,23 @@ gallery_item:
 - album: botany2019album
   image: deanposter.JPG
   caption: Undergraduate researcher Dean Berkowitz presenting his poster.
-  
-gallery_item:
+
 - album: botany2019album
   image: snake.jpeg
   caption: WESTERN. DIAMONDBACK. RATTLESNAKE. I fangirled so hard.
   
-gallery_item:
 - album: botany2019album
   image: elevatormariachi.JPG
   caption: A bunch of Cal nerds and a mariachi band walk into an elevator…
   
-gallery_item:
 - album: botany2019album
   image: ixchelposter.JPG
   caption: My lab-mate Ixchel absolutely killing it at her poster!
   
-gallery_item:
 - album: botany2019album
   image: sky.JPG
   caption: After a hectic layover in San Diego, I was treated with an absolutely breathtaking view of the sunset over the ocean.
 
-gallery_item:
 - album: botany2019album
   image: brentposter.JPG
   caption: Kirsten Fisher (my master’s advisor! and collaborator with the 3D Moss project), Mel Oliver (collaborator with the 3D Moss project), Anita Antoninka (collaborator with the 3D Moss project), Brent Mishler (my PhD advisor), and Sotodeh Ebrahimi (my friend and collaborator with the 3D Moss project). Cheers to Brent’s first ever poster!!!
