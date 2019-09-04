@@ -17,13 +17,10 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 
-<!-- 
-image: sotodehposter.JPG
+image: 
   caption: "Sotodeh and her beautiful work of art poster and research project!"
-  focal_point: Smart
+  focal_point: "Smart"
   preview_only: false
- -->
-  
   
 # Projects (optional).
 #   Associate this post with one or more of your projects.
