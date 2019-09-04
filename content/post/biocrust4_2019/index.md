@@ -18,7 +18,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 
 image: 
-  caption: "Sotodeh and her beautiful work of art poster and research project!"
+  caption: "Minjerribah"
   focal_point: "Smart"
   preview_only: false
   
