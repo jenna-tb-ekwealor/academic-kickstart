@@ -49,7 +49,7 @@ gallery_item:
   image: ixchelposter.JPG
   caption: My lab-mate Ixchel absolutely killing it at her poster!
   
-  - album: botany2019album
+- album: botany2019album
   image: maryamjenna.JPG
   caption: Fellow UCB Integrative Biology grad student Maryam and I schmoozing at a conference reception.
   
