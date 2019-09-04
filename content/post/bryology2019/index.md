@@ -8,8 +8,8 @@ authors: []
 tags: 
 - Professional events
 categories: []
-date: 2019-08-06T18:15:21-07:00
-lastmod: 2019-08-06T18:15:21-07:00
+date: 2019-09-16T18:15:21-07:00
+lastmod: 2019-09-16T18:15:21-07:00
 featured: false
 draft: false
 
@@ -30,8 +30,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects: ["3dmoss","uvfield","uvchamber"]
 
-
 ---
+This year the International Association of Bryologists had a joint meeting with IMOSS (International Molecular Moss Science Society), and Sociedad Española de Briología (SEB; the Spanish Bryological Society) in Madrid, Spain. I presented my ongoing dissertation work at this conference and stayed for an extra day to do some tourism! I was totally unprepared for the magnificence that was El Museo Nacional de Prado and Museo Nacional Centro de Arte Reina Sofía. These are enormous and beautiful museums packed full masterpieces. We also went to the Sierra de Guadarrama National Park which is sometimes called "The Joshua Tree of Spain" because of its iconic granite boulders. I'd like to think of it as the Granite Mountains of Spain, instead, as the Granite Mountains in the Mojave National Preserve in Southern California are where I'm doing my field work!
+
+The meeting itself was great, too. It was a great mix of researchers that spanned the spectrum of molecular and organismal biology across land plants. I learned a lot and had inspring conversations with other attendees. Looking forward to future meetings with these groups! 
 
 ![Typical Spanish architecture](balconies.JPG)
 ![Spanish churro with dark chocolate dipping sauce.](churro.JPG)
