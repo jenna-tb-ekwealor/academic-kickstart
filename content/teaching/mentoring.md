@@ -29,7 +29,7 @@ subtitle = ""
 * Jose Adame Medina, Berkeley High School, Class of 2020
 * Angela Sacramento, Oakland Technical High School, Class of 2019
 
-## Undergraduate research assistants.
+## Undergraduate research assistants
 
 ### Former mentees
 
