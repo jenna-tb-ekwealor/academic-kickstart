@@ -11,7 +11,7 @@ tags:
 categories: [Conferences]
 date: 2019-09-16T18:15:21-07:00
 lastmod: 2019-09-16T18:15:21-07:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
