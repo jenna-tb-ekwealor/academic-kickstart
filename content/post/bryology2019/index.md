@@ -9,8 +9,8 @@ tags:
 - Professional events
 - Travel
 categories: [Conferences]
-date: 2019-09-16T18:15:21-07:00
-lastmod: 2019-09-16T18:15:21-07:00
+date: 2019-07-16T18:15:21-07:00
+lastmod: 2019-07-16T18:15:21-07:00
 featured: true
 draft: false
 
