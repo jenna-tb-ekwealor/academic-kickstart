@@ -21,7 +21,7 @@ draft: false
 image: 
   caption: "A green sea turtle in the Great Barrier Reef"
   focal_point: "Smart"
-  preview_only: false
+  preview_only: true
   
 # Projects (optional).
 #   Associate this post with one or more of your projects.
