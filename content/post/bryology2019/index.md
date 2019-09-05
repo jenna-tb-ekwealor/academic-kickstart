@@ -3,7 +3,7 @@
 
 title: "Bryology 2019 in Madrid, Spain"
 subtitle: ""
-summary: "Re-cap of a small international conference focused on bryophyte research"
+summary: "Re-cap of a small international conference focused on bryophyte research."
 authors: []
 tags: 
 - Professional events
