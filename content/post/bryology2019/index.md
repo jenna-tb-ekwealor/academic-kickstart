@@ -20,7 +20,7 @@ draft: false
 
 image: 
   caption: "Granite boulder mountains are iconic of La Pedriza in Sierra de Guadarrama National Park, Spain"
-  focal_point: "Smart"
+  focal_point: "Center"
   preview_only: false
 
 
