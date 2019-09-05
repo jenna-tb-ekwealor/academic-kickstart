@@ -103,7 +103,7 @@ gallery_item:
 
 - album: bryology2019album
   image: tortilla.JPG
-  caption: "A typical desayuno in Madrid: una tortilla de patatas y un cafecito."
+  caption: Una tortilla de patatas y un cafecito = a typical desayuno in Madrid. 
   
 ---
 
