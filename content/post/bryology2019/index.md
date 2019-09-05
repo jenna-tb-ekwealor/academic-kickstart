@@ -12,7 +12,7 @@ categories: [Conferences]
 date: 2019-09-16T18:15:21-07:00
 lastmod: 2019-09-16T18:15:21-07:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
