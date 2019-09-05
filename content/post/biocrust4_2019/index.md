@@ -19,7 +19,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 
 image: 
-  caption: "Minjerribah"
+  caption: "A green sea turtle in the Great Barrier Reef"
   focal_point: "Smart"
   preview_only: false
   
