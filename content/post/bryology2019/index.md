@@ -103,7 +103,8 @@ gallery_item:
 
 - album: bryology2019album
   image: tortilla.JPG
-  caption: Spanish *Grimmia*.A typical desayuno in Madrid: a tortilla de patatas y un cafecito.
+  caption: A typical desayuno in Madrid: a tortilla de patatas y un cafecito.
+  
 ---
 This year the International Association of Bryologists had a joint meeting with IMOSS (International Molecular Moss Science Society), and Sociedad Española de Briología (SEB; the Spanish Bryological Society) in Madrid, Spain. I presented my ongoing dissertation work at this conference and stayed for an extra day to do some tourism! I was totally unprepared for the magnificence that was El Museo Nacional de Prado and Museo Nacional Centro de Arte Reina Sofía. These are enormous and beautiful museums packed full masterpieces. We also went to the Sierra de Guadarrama National Park which is sometimes called "The Joshua Tree of Spain" because of its iconic granite boulders. I'd like to think of it as the Granite Mountains of Spain, instead, as the Granite Mountains in the Mojave National Preserve in Southern California are where I'm doing my field work!
 
