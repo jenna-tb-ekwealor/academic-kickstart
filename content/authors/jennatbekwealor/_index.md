@@ -15,7 +15,7 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of California, Berkeley
-  url: "bryolab.berkeley.edu"
+  url: "https://bryolab.berkeley.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a UC Berkeley PhD Candidate studying evolution & ecology of desiccation-tolerant desert mosses.
