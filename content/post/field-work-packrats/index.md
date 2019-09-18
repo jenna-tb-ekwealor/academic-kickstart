@@ -9,8 +9,8 @@ tags:
 - Fieldwork
 - Travel
 categories: [Fieldwork]
-date: 2019-09-18T18:15:21-07:00
-lastmod: 2019-09-18T18:15:21-07:00
+date: 2019-09-17T18:15:21-07:00
+lastmod: 2019-09-17T18:15:21-07:00
 featured: true
 draft: false
 
