@@ -14,5 +14,5 @@ image:
   caption: []
   focal_point: Smart
 ---
-In collaboration with Blueprint Earth↗, I am working on a project to understand the phylogenetic diversity of vascular plants in a 1 km x 1 km, densely surveyed region of the Mojave National Preserve. The study area is home to springs with both underground and surface flow and basalt flows, creating a hydrogeologically complex area. We are testing the hypothesis that environmental heterogeneity supports phylogenetic diversity in the Mojave Desert.
+In collaboration with Blueprint Earth, I am working on a project to understand the phylogenetic diversity of vascular plants in a 1 km x 1 km, densely surveyed region of the Mojave National Preserve. The study area is home to springs with both underground and surface flow and basalt flows, creating a hydrogeologically complex area. We are testing the hypothesis that environmental heterogeneity supports phylogenetic diversity in the Mojave Desert.
 

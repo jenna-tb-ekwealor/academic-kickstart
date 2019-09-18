@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Biocrust4 2019 in Minjerribah, Australia"
+title: "Fieldwork-wildlife conflicts"
 subtitle: ""
-summary: "Re-cap of a small international conference centered around the study of biological soil crusts and their organisms."
+summary: "Or, how desert woodrats tried to sabotage my dissertation."
 authors: []
 tags: 
-- Professional events
+- Fieldwork
 - Travel
-categories: [Conferences]
-date: 2019-09-04T18:15:21-07:00
-lastmod: 2019-09-04T18:15:21-07:00
+categories: [Fieldwork]
+date: 2019-09-18T18:15:21-07:00
+lastmod: 2019-09-18T18:15:21-07:00
 featured: true
 draft: false
 
@@ -19,7 +19,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 
 image: 
-  caption: "A green sea turtle in the Great Barrier Reef"
+  caption: "Unloading data from environmental sensors in the field."
   focal_point: "Smart"
   preview_only: false
   
@@ -28,9 +28,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["uvfield","uvchamber", "3dmoss"]
+projects: ["uvfield"]
 ---
 
-This year the International Workshop on Biological Soil Crusts (<a href="https://agriculture.uq.edu.au/event/biocrust4" target="_blank">Biocrust4</a>), was held in Minjerribah (North Stradbroke Island), Australia. 
-
-
+text

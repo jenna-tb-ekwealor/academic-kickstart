@@ -10,7 +10,7 @@ tags:
 external_link: ""
 
 image: 
-  caption: 3D Moss Logo
+  caption: ""
   focal_point: Smart
 ---
 I am also a collaborator on an NSF Dimensions of Biodiversity 3D Moss Project. Led by a team of six primary investigators, the 3D Moss group aims to understand the evolutionary and ecological mechanisms that have produced and maintained diversity at five different levels of organization within Syntrichia: 
