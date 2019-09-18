@@ -13,7 +13,7 @@ image:
   caption: ""
   focal_point: Smart
 ---
-I am also a collaborator on an NSF Dimensions of Biodiversity 3D Moss Project. Led by a team of six primary investigators, the 3D Moss group aims to understand the evolutionary and ecological mechanisms that have produced and maintained diversity at five different levels of organization within Syntrichia: 
+I am also a collaborator on an NSF Dimensions of Biodiversity <a href="https://3dmoss.berkeley.edu" target="_blank">3D Moss Project</a>. Led by a team of six primary investigators, the 3D Moss group aims to understand the evolutionary and ecological mechanisms that have produced and maintained diversity at five different levels of organization within Syntrichia: 
 
 * Genomic Diversity – The number, order, and variation of genes
 * Transcriptomic Diversity – The genes expressed in different developmental stages and hydration states
