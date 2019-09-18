@@ -39,7 +39,7 @@ gallery_item:
   image: sensor.JPG
   caption: Here it is! The sensor that the woodrat failed to thoroughly steal. 
   
-  ---
+---
 
 Recently I completed my last fieldwork trip for my dissertation! Let's take a moment to celebrate that fact before moving on to the topic of this post. 
 
