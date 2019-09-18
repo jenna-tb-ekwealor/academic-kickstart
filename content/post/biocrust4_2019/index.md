@@ -31,6 +31,6 @@ image:
 projects: ["uvfield","uvchamber", "3dmoss"]
 ---
 
-This year the International Workshop on Biological Soil Crusts (<a href="https://agriculture.uq.edu.au/event/biocrust4" target="_blank">Biocrust4</a>), was held in Minjerribah (North Stradbroke Island), Australia. 
+This year the International Workshop on Biological Soil Crusts (<a href="https://agriculture.uq.edu.au/event/biocrust4" target="_blank">Biocrust4</a>), was held in Minjerribah (North Stradbroke Island), Australia. The meeting was absolutely excellent! Most participants stayed at a University of Queensland research station, which facilitated conversations and collaborations throughout the week. The week before I also had a chance to do some tourism in NE Australia, including a hike through Daintree National Park, sliding down a sand dune on a sand island, and scuba diving the Great Barrier Reef!
 
 
