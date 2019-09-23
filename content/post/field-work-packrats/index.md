@@ -32,7 +32,7 @@ projects: ["uvfield"]
 
 gallery_item:
 - album: field-work-packratsalbum
-  image: giddiness.JPG
+  image: giddiness.jpg
   caption: This is pure excitement to find the sensor in the packrat midden. 
 
 - album: field-work-packratsalbum
