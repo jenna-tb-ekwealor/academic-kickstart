@@ -16,7 +16,10 @@ title = "Jenna T. B. Ekwealor"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-148575642-1"
+
+
+
 
 ############################
 ## Advanced options below ##
