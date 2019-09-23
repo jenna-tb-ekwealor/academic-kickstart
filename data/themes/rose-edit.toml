@@ -5,7 +5,7 @@ name = "rose-edit"
 light = true
 
 # Primary
-primary = "rgb(88, 205, 254)"
+primary = "rgb(127, 193, 230)"
 
 # Menu
 menu_primary = "rgb(247, 247, 247)"
@@ -15,4 +15,4 @@ menu_title = "#000"
 
 # Home sections
 home_section_odd = "#FFF"
-home_section_even = "rgb(172, 227, 250)"
+home_section_even = "rgb(172, 221, 250)"
