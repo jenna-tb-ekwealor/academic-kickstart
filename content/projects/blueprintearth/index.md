@@ -1,5 +1,5 @@
 ---
-title: Spatial phylogenetics in the Mojave National Preserve
+title: Vascular plant spatial phylogenetics in the Mojave National Preserve
 summary: In collaboration with non-profit Blueprint Earth, an assessment of the phylogenetic diversity of a unique region of the Mojave Desert
 tags:
 #- *Syntrichia*
@@ -10,9 +10,8 @@ tags:
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image: 
+image:
   caption: []
   focal_point: Smart
 ---
 In collaboration with <a href="https://blueprintearth.org" target="_blank">Blueprint Earth</a>, I am working on a project to understand the phylogenetic diversity of vascular plants in a 1 km x 1 km, densely surveyed region of the Mojave National Preserve. The study area is home to springs with both underground and surface flow and basalt flows, creating a hydrogeologically complex area. We are testing the hypothesis that environmental heterogeneity supports phylogenetic diversity in the Mojave Desert.
-
