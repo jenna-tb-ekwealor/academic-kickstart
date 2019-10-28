@@ -1,5 +1,5 @@
 ---
-title: The combined effects of UV and desiccation on <i>Syntrichia</i>
+title: The combined effects of UV and desiccation on Syntrichia
 summary: Transcriptomics & metabolomics of combined desiccation and UV stress on two species
 tags:
 - Bioinformatics
