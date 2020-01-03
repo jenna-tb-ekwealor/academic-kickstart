@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   company = "University of California, Berkeley"
   date_start = "2020-01-20"
   date_end = "2020-05-20"
-  description = "Introduction to California Plant Life, Lab and Field Course"
+  description = "Introduction to California Plant Life Laboratory and Field Course"
   
 [[experience]]
   title = "Graduate Student Instructor"
@@ -42,7 +42,14 @@ date_format = "Jan 2006"
   company = "California State University, Los Angeles"
   date_start = "2014-01-20"
   date_end = "2014-06-15"
-  description = "Ecology Laboratory; Plant Biology Laboratory"
+  description = "Ecology Laboratory"
+  
+  [[experience]]
+  title = "Teaching Assistant"
+  company = "California State University, Los Angeles"
+  date_start = "2014-01-20"
+  date_end = "2014-06-15"
+  description = "Plant Biology Laboratory"
 
 [[experience]]
   title = "Recitation Leader Instructor"
