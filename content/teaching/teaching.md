@@ -22,12 +22,19 @@ date_format = "Jan 2006"
   date_start = "2015-08-20"
   date_end = "2016-05-07"
   description = "Introductory Biology Laboratory"
+  
+[[experience]]
+  title = "Graduate Student Instructor"
+  company = "University of California, Berkeley"
+  date_start = "2020-01-20"
+  date_end = "2020-05-20"
+  description = "Ecosystems of California Field Course"
  
 [[experience]]
   title = "Graduate Student Instructor"
   company = "University of California, Berkeley"
   date_start = "2019-08-20"
-  date_end = ""
+  date_end = "2019-12-20"
   description = "Ecosystems of California Field Course"
 
 [[experience]]
