@@ -8,7 +8,7 @@ abstract: Terrestrial mosses dehydrate and go quiescent between precipitation ev
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-01-31T12:00:00PST"
+date: "2020-01-31T12:00:00Z"
 # date_end: "2019-08-01T15:00:00Z"
 all_day: false
 
