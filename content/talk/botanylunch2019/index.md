@@ -1,6 +1,6 @@
 ---
 title: The photosynthetic effects of natural levels of UV radiation on Mojave Desert mosses
-event: UC and Jepson Herbaria Botany Lunch Spring 2020
+event: UC and Jepson Herbaria Botany Lunch, Spring 2020
 event_url: http://ucjeps.berkeley.edu/news/botanylunch/
 location: Berkeley, California
 summary: The effects of a year-long UV-reduction experiment on key components of photosynthesis in natural populations of *Syntrichia caninervis*.
