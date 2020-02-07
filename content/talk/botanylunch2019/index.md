@@ -1,5 +1,5 @@
 ---
-title: The photosynthetic effects of natural levels of UV radiation on Mojave Desert mosses
+title: The photosynthetic effects of the Mojave Desert sun on a biological soil crust moss
 event: UC and Jepson Herbaria Botany Lunch, Spring 2020
 event_url: http://ucjeps.berkeley.edu/news/botanylunch/
 location: Berkeley, California
