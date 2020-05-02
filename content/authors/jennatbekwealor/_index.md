@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:jtbe@berkeley.edu # for contant form use: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:jtbe@berkeley.edu # for contact form use: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Bryophyter
@@ -75,5 +75,5 @@ email: jenna.ekwealor@gmail.com
 
 
 
-I'm a PhD Candidate in Integrative Biology at UC Berkeley. I am fascinated by the very small: those organisms that are easily overlooked by macrobes like ourselves. I am also excited by extremophiles: those that can survive and thrive in conditions thought to be difficult for life itself. I find these interests come together easily in studying mosses. These small plants have found a way to only truly ‘live’ when conditions are right (that is, when enough water is present), and dry out and go quiescent when water is absent. For desert mosses that is most of the time! Yet, seemingly miraculously, dryland mosses are able to quickly begin to grow and thrive again, while recovering from damage that accumulated while they were desiccated. I find this process fascinating and I am interested in thinking about the evolutionary (both micro and macro) implications of this lifestyle.
+I'm a PhD Candidate, Berkeley Fellow, and NSF NRT Trainee alum in Integrative Biology at UC Berkeley. I am fascinated by the very small: those organisms that are easily overlooked by macrobes like ourselves. I am also excited by extremophiles: those that can survive and thrive in conditions thought to be difficult for life itself. These interests come together in studying mosses. These small plants have found a way to only truly ‘live’ when conditions are right (that is, when enough water is present), and dry out and go quiescent when water is absent. For desert mosses that is most of the time! Yet, almost miraculously, dryland mosses are able to quickly begin to grow and thrive again, while recovering from damage that accumulated while they were desiccated. I find this process fascinating and I am interested in thinking about the evolutionary (both micro and macro) implications of this way of life.
 
