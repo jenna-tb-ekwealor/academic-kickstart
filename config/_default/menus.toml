@@ -49,7 +49,7 @@
 
   [[main]]
   name = "Fine Art"
-  url = "#fine_art"
+  url = "/fine_art"
   weight = 65
 
 [[main]]
