@@ -13,6 +13,11 @@ subtitle = ""
 +++
 
 
+<img src="static/img/catman.jpg">
+<p>Catman. Acrylic on canvas, 16" x 20"</p>
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20f10920-89ff-4cb5-a6ea-408aad335361/ddwcxw0-5cacc978-ed8d-4870-b0a0-410c8c94bcad.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjBmMTA5MjAtODlmZi00Y2I1LWE2ZWEtNDA4YWFkMzM1MzYxXC9kZHdjeHcwLTVjYWNjOTc4LWVkOGQtNDg3MC1iMGEwLTQxMGM4Yzk0YmNhZC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.MLZGgcuiCaJ96TR155hbAW4_toCDqbGskQhSbYU3w2s">
+<img src="static/img/billy_ipad.jpg">
+<p>Billy. Digital.</p>
+
+<h1> See more on my <a href="https://www.deviantart.com/jennatbee" target="_blank">DeviantArt</a> page.</h1>
 
