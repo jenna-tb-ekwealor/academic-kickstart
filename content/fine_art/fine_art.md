@@ -14,7 +14,7 @@ subtitle = ""
     
 +++
    
-<a href="/img/catman.jpg" target="_blank"><img src="/img/catman.jpg" width=50% /></a>
+<a href="/img/catman.jpg" target="_blank"><img src="/img/catman.jpg" width=75% /></a>
 
 Catman. Acrylic on canvas, 16 in x 20 in.
 
@@ -23,7 +23,7 @@ Catman. Acrylic on canvas, 16 in x 20 in.
 
 <br>
 
-<a href="/img/billy_ipad.jpg" target="_blank"><img src="/img/billy_ipad.jpg" /></a>
+<a href="/img/billy_ipad.jpg" target="_blank"><img src="/img/billy_ipad.jpg" width=75% /></a>
 
 Billy. Digital painting on an iPad with Apple Pencil.
 
