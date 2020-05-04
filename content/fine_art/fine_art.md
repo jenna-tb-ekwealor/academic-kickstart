@@ -20,5 +20,6 @@ gallery_item:
    caption: Billy. Digital drawing on an iPad with Apple Pencil. 
 +++
 
+{{< gallery >}}
 <h2> See more on my <a href="https://www.deviantart.com/jennatbee" target="_blank">DeviantArt</a> page.</h2>
 
