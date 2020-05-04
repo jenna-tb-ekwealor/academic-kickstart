@@ -13,10 +13,10 @@ subtitle = ""
 
 gallery_item:
  - album: gallery
-   image: /static/img/catman.jpg
+   image: catman.jpg
    caption: Catman. Acrylic on canvas, 16" x 20"
  - album: gallery
-   image: /static/img/billy_ipad.jpg
+   image: billy_ipad.jpg
    caption: Billy. Digital drawing on an iPad with Apple Pencil. 
 +++
 
