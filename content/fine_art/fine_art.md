@@ -9,35 +9,18 @@ title = "Fine Art Gallery"
 subtitle = ""
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 +++
 
-
-<!-- Trigger the Modal -->
-<img id="myImg" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20f10920-89ff-4cb5-a6ea-408aad335361/ddwcxw0-5cacc978-ed8d-4870-b0a0-410c8c94bcad.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjBmMTA5MjAtODlmZi00Y2I1LWE2ZWEtNDA4YWFkMzM1MzYxXC9kZHdjeHcwLTVjYWNjOTc4LWVkOGQtNDg3MC1iMGEwLTQxMGM4Yzk0YmNhZC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.MLZGgcuiCaJ96TR155hbAW4_toCDqbGskQhSbYU3w2s" alt="Catman. Acrylic on canvas, 16 in x 20 in." style="width:100%;max-width:300px">
-
-<!-- The Modal -->
-<div id="myModal" class="modal">
-
-  <!-- The Close Button -->
-  <span class="close">&times;</span>
-
-  <!-- Modal Content (The Image) -->
-  <img class="modal-content" id="img01">
-
-  <!-- Modal Caption (Image Text) -->
-  <div id="Catman. Acrylic on canvas, 16 in x 20 in."></div>
-</div>
+<a href="/static/img/catman.jpg"><img src="/static/img/catman.jpg" /></a>
 
 
-
-<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20f10920-89ff-4cb5-a6ea-408aad335361/ddwcxw0-5cacc978-ed8d-4870-b0a0-410c8c94bcad.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjBmMTA5MjAtODlmZi00Y2I1LWE2ZWEtNDA4YWFkMzM1MzYxXC9kZHdjeHcwLTVjYWNjOTc4LWVkOGQtNDg3MC1iMGEwLTQxMGM4Yzk0YmNhZC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.MLZGgcuiCaJ96TR155hbAW4_toCDqbGskQhSbYU3w2s' alt='Catman. Acrylic on canvas, 16 in x 20 in.' style="width:300px">
 
 Catman. Acrylic on canvas, 16 in x 20 in.
 
 <br>
 
-<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20f10920-89ff-4cb5-a6ea-408aad335361/ddwcysk-ca0fc84f-61fe-483e-aeef-9feda2360953.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjBmMTA5MjAtODlmZi00Y2I1LWE2ZWEtNDA4YWFkMzM1MzYxXC9kZHdjeXNrLWNhMGZjODRmLTYxZmUtNDgzZS1hZWVmLTlmZWRhMjM2MDk1My5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.f2JP8pbo8HoE83PYQhFgGkdvWOAxnptPjGwEkgPLchM' alt='Billy. Digital painting on an iPad with Apple Pencil.' style="width:300px">
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20f10920-89ff-4cb5-a6ea-408aad335361/ddwcysk-ca0fc84f-61fe-483e-aeef-9feda2360953.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjBmMTA5MjAtODlmZi00Y2I1LWE2ZWEtNDA4YWFkMzM1MzYxXC9kZHdjeXNrLWNhMGZjODRmLTYxZmUtNDgzZS1hZWVmLTlmZWRhMjM2MDk1My5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.f2JP8pbo8HoE83PYQhFgGkdvWOAxnptPjGwEkgPLchM' alt='Billy. Digital painting on an iPad with Apple Pencil.' style="width:50%">
   
 Billy. Digital painting on an iPad with Apple Pencil.
 
