@@ -16,7 +16,7 @@ subtitle = ""
 
  {{< img src="/img/catman" type="jpg" alt="" caption="catman test" >}}
    
-<a href="/static/img/catman.jpg"><img src="/static/img/catman.jpg" /></a>
+<a href="/img/catman.jpg"><img src="/img/catman.jpg" /></a>
 
 
 
