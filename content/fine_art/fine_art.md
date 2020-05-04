@@ -13,11 +13,11 @@ subtitle = ""
 +++
 
 
-<img src="static/img/catman.jpg">
+<img src="~/static/img/catman.jpg">
 <p>Catman. Acrylic on canvas, 16" x 20"</p>
 
-<img src="static/img/billy_ipad.jpg">
+<img src="~/static/img/billy_ipad.jpg">
 <p>Billy. Digital.</p>
 
-<h1> See more on my <a href="https://www.deviantart.com/jennatbee" target="_blank">DeviantArt</a> page.</h1>
+<h2> See more on my <a href="https://www.deviantart.com/jennatbee" target="_blank">DeviantArt</a> page.</h2>
 
