@@ -9,15 +9,16 @@ title = "Fine Art Gallery"
 subtitle = ""
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
+
+gallery_item:
+ - album: gallery
+   image: /static/img/catman.jpg
+   caption: Catman. Acrylic on canvas, 16" x 20"
+ - album: gallery
+   image: /static/img/billy_ipad.jpg
+   caption: Billy. Digital drawing on an iPad with Apple Pencil. 
 +++
-
-
-<img src="/static/img/catman.jpg">
-<p>Catman. Acrylic on canvas, 16" x 20"</p>
-
-<img src="/static/img/billy_ipad.jpg">
-<p>Billy. Digital.</p>
 
 <h2> See more on my <a href="https://www.deviantart.com/jennatbee" target="_blank">DeviantArt</a> page.</h2>
 
