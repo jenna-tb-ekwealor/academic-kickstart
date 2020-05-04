@@ -14,7 +14,7 @@ subtitle = ""
     
 +++
    
-<a href="/img/catman.jpg" target="_blank"><img src="/img/catman.jpg" /></a>
+<a href="/img/catman.jpg" target="_blank"><img src="/img/catman.jpg" width=50% /></a>
 
 Catman. Acrylic on canvas, 16 in x 20 in.
 
