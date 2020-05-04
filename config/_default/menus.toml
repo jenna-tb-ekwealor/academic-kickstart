@@ -8,10 +8,6 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Biography"
-  url = "/bio"
-  weight = 14
 
   # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -24,7 +20,7 @@
 
   [[main]]
   name = "Research"
-  url = "#research"
+  url = "#projects"
   weight = 20
 
   [[main]]
