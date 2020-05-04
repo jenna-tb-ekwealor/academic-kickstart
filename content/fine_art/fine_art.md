@@ -13,24 +13,18 @@ subtitle = ""
 
     
 +++
-
-< img src="/img/catman" type="jpg" alt="" caption="catman test" >
    
-<a href="/img/catman.jpg"><img src="/img/catman.jpg" /></a>
-
-
+<a href="/img/catman.jpg" target="_blank"><img src="/img/catman.jpg" /></a>
 
 Catman. Acrylic on canvas, 16 in x 20 in.
 
 
 
 
-< img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20f10920-89ff-4cb5-a6ea-408aad335361/ddwcysk-ca0fc84f-61fe-483e-aeef-9feda2360953.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjBmMTA5MjAtODlmZi00Y2I1LWE2ZWEtNDA4YWFkMzM1MzYxXC9kZHdjeXNrLWNhMGZjODRmLTYxZmUtNDgzZS1hZWVmLTlmZWRhMjM2MDk1My5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.f2JP8pbo8HoE83PYQhFgGkdvWOAxnptPjGwEkgPLchM" type="jpg" alt="" caption="Ascendia - ProgPower 2016" >
-
 <br>
 
-<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20f10920-89ff-4cb5-a6ea-408aad335361/ddwcysk-ca0fc84f-61fe-483e-aeef-9feda2360953.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjBmMTA5MjAtODlmZi00Y2I1LWE2ZWEtNDA4YWFkMzM1MzYxXC9kZHdjeXNrLWNhMGZjODRmLTYxZmUtNDgzZS1hZWVmLTlmZWRhMjM2MDk1My5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.f2JP8pbo8HoE83PYQhFgGkdvWOAxnptPjGwEkgPLchM' alt='Billy. Digital painting on an iPad with Apple Pencil.' style="width:50%">
- 
+<a href="/img/billy_ipad.jpg" target="_blank"><img src="/img/billy_ipad.jpg" /></a>
+
 Billy. Digital painting on an iPad with Apple Pencil.
 
 
