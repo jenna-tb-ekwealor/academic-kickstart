@@ -59,7 +59,7 @@ gallery_item:
   
 - album: nicaralbum
   image: pig.JPG
-  caption: A very exciting moment: running into this adorable (but damaging, I know) feral pig in the Honey Island swamp. 
+  caption: A very exciting moment running into this adorable (but damaging, I know) feral pig in the Honey Island swamp. 
   
 - album: nicaralbum  
   image: mangrove.JPG
