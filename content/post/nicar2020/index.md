@@ -34,7 +34,7 @@ projects: []
 
 gallery_item:
 - album: nicaralbum
-  image: mardigras.HEIC
+  image: mardigras.png
   caption: I was there just after Mardi Gras and decorations were still up.
 
 - album: nicaralbum
@@ -50,7 +50,7 @@ gallery_item:
   caption: I was lucky enough to be invited to a local backyard crawfish boil. 
 
 - album: nicaralbum
-  image: local.HEIC
+  image: local.png
   caption: Fellow DS421 NRT alumn Sara Stoudt (@sastoudt on Twitter) and I made sure to hit up local favorite spots, too. 
 
 - album: nicaralbum
