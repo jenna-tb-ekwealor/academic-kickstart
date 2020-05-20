@@ -3,7 +3,7 @@
 
 title: "NICAR 2020 in New Orleans, Louisiana"
 subtitle: ""
-summary: "Re-cap of a large data journalism conference."
+summary: "I attended a large data journalism conference."
 authors: []
 tags: 
 - Professional events
@@ -19,7 +19,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 
 image: 
-  caption: "A coffee with chicory and beignets"
+  caption: "An alligator in the Pearl River near the Honey Island Swamp"
   focal_point: "Smart"
   preview_only: false
   
