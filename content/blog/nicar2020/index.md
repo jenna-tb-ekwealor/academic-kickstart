@@ -12,7 +12,7 @@ categories: [Conferences]
 date: 2019-09-04T18:15:21-07:00
 lastmod: 2019-09-04T18:15:21-07:00
 featured: true
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -31,6 +31,5 @@ image:
 projects: ["uvfield","uvchamber", "3dmoss"]
 ---
 
-This year the International Workshop on Biological Soil Crusts (<a href="https://agriculture.uq.edu.au/event/biocrust4" target="_blank">Biocrust4</a>), was held in Minjerribah (North Stradbroke Island), Australia. The meeting was absolutely excellent! Most participants stayed at a University of Queensland research station, which facilitated conversations and collaborations throughout the week. The week before I also had a chance to do some tourism in NE Australia, including a hike through Daintree National Park, sliding down a sand dune on a sand island, and scuba diving the Great Barrier Reef!
-
+I attended a conference that was outside my field of expertise this year. The conference was the National Institute of Computer-Assisted Reporting by the Investigative Reporters & Editors society (<a href="https://www.ire.org/events-and-training/conferences/nicar-2020" target="_blank">NICAR2020</a>) held in New Orleans, Louisiana. I attended because I wanted to learn science and data communication from the professionals: data journalists. It was fascinating to see the similarities and differences between our fields and approaches. I learned a lot at this conference and definitely feel better equipped to share my data, especially in online formats. I also feel more prepared to one day work with a journalist who might be interested in a writing a story on my science. It was a great experience!
 
