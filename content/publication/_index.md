@@ -15,4 +15,3 @@ header:
 ---
 
 
-SEE ALL PUBLICATIONS >
