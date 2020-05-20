@@ -113,6 +113,4 @@ This year the International Association of Bryologists had a joint meeting with 
 The meeting itself was great, too. It was a great mix of researchers that spanned the spectrum of molecular and organismal biology across land plants. I learned a lot and had inspring conversations with other attendees. Looking forward to future meetings with these groups! 
 </p>
 
-<p style="text-align:center;">
 {{< gallery album="bryology2019album" >}}
-</p>
