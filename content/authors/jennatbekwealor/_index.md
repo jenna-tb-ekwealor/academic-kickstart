@@ -56,12 +56,13 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/jenna-tb-ekwealor
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-icon_pack: ai
-link: files/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: jenna.ekwealor@gmail.com
@@ -75,5 +76,5 @@ email: jenna.ekwealor@gmail.com
 
 
 
-I'm a PhD Candidate, Berkeley Fellow, and NSF NRT alum in Integrative Biology at UC Berkeley. I am fascinated by the very small: those organisms that are easily overlooked by macrobes like ourselves. I am also excited by extremophiles: those that can survive and thrive in conditions thought to be difficult for life itself. These interests come together in studying mosses. These small plants have found a way to only truly ‘live’ when conditions are right (that is, when enough water is present), and dry out and go quiescent when water is absent. For desert mosses that is most of the time! Yet, almost miraculously, dryland mosses are able to quickly begin to grow and thrive again, while recovering from damage that accumulated while they were desiccated. I find this process fascinating and I am interested in thinking about the evolutionary (both micro and macro) implications of this way of life.
+I'm a PhD Candidate, Berkeley Fellow, and NSF NRT alum in <a href="https://https://ib.berkeley.edu" target="_blank">Integrative Biology at UC Berkeley</a>. I am fascinated by the very small: those organisms that are easily overlooked by macrobes like ourselves. I am also excited by extremophiles: those that can survive and thrive in conditions thought to be difficult for life itself. These interests come together in studying mosses. These small plants have found a way to only truly ‘live’ when conditions are right (that is, when enough water is present), and dry out and go quiescent when water is absent. For desert mosses that is most of the time! Yet, almost miraculously, dryland mosses are able to quickly begin to grow and thrive again, while recovering from damage that accumulated while they were desiccated. I find this process fascinating and I am interested in thinking about the evolutionary (both micro and macro) implications of this way of life.
 
