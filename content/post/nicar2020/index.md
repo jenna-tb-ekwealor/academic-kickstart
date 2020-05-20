@@ -20,7 +20,7 @@ draft: false
 
 image: 
   caption: "An alligator in the Pearl River near the Honey Island Swamp"
-  focal_point: "Smart"
+  focal_point: "BottomLeft"
   preview_only: false
   
   
