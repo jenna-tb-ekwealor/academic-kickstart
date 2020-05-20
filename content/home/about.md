@@ -12,5 +12,7 @@ title = "Hello"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "jennatbekwealor"
 
-
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "10px", "0"]
 +++

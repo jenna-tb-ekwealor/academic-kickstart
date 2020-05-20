@@ -50,4 +50,7 @@ subtitle = ""
   name = "Microscopy"
 # description = "10%"
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "10px", "0"]
 +++
