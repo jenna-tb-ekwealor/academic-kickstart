@@ -3,7 +3,7 @@
 
 title: "NICAR 2020 in New Orleans, Louisiana"
 subtitle: ""
-summary: "I attended a large data journalism conference."
+summary: "A scientist attends a data journalism conference to learn science communication from the pros."
 authors: []
 tags: 
 - Professional events
