@@ -63,7 +63,7 @@ gallery_item:
   
 - album: nicaralbum  
   image: mangrove.JPG
-  caption: Not to be out done by the big, the black mangroves (<i>Avicennia germinans</i>) were also a sight to behold.
+  caption: Not to be out done by the big, the black mangroves (*Avicennia germinans*) were also a sight to behold.
   
 ---
 
