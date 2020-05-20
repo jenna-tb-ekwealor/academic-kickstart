@@ -51,7 +51,7 @@ gallery_item:
 
 - album: nicaralbum
   image: local.HEIC
-  caption: Fellow DS421 NRT alumn Sara Stoudt (Twitter <a href=http://twitter.com/sastoudt">@sastoudt</a>) and I made sure to hit up local favorite spots, too. 
+  caption: Fellow DS421 NRT alumn Sara Stoudt (@sastoudt on Twitter) and I made sure to hit up local favorite spots, too. 
 
 - album: nicaralbum
   image: alligator.JPG
