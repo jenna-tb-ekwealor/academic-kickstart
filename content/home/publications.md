@@ -24,6 +24,7 @@ subtitle = ""
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
+    
   # Filter posts by a taxonomy term.
   #[content.filters]
   #  tag = ""
@@ -65,5 +66,9 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+ [design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["10px", "0", "10px", "0"]
 +++
   

@@ -1,6 +1,6 @@
 +++
 # A Recent Blog Posts section created with the Pages widget.
-# This section displays recent blog posts from `content/post/`.
+# This section displays recent blog posts from `content/blog/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -15,14 +15,15 @@ subtitle = ""
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 1
   
   # Choose how many pages you would like to offset by
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
-
+  
+   
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
@@ -66,4 +67,5 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
 +++
