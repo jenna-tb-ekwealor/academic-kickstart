@@ -57,14 +57,6 @@ gallery_item:
   image: alligator.JPG
   caption: I got to see alligators in the Pearl River on a boat ride to Honey Island. 
   
-- album: nicaralbum
-  image: pig.JPG
-  caption: A very exciting moment: running into this adorable (but damaging, I know) feral pig in the Honey Island swamp. 
-  
-- album: nicaralbum  
-  image: mangrove.JPG
-  caption: Not to be out done by the big, the black mangroves (*Avicennia germinans*) were also a sight to behold.
-  
   
 ---
 
