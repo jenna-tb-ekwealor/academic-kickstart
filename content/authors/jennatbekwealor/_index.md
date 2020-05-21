@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:jtbe@berkeley.edu # for contact form use: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:jtbe@berkeley.edu # for contact form use: '#contact'  # For a direct email link, use "mailto:jtbe@berkeley.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Bryophyter
