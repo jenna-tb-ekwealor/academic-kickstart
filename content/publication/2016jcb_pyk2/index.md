@@ -9,7 +9,7 @@ authors:
 - Ying-Hua Cheng
 - Evan R. Himes
 - Matthew Hamilton
-- Jenna T. Baughman Ekwealor
+- Jenna T. Baughman Ekwealor**
 - Melissa A. Kacena
 - Angela Bruzzaniti
 date: "2015-11-10T00:00:00Z"
