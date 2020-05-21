@@ -14,16 +14,15 @@
   <p class="powered-by"><small>
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
 <br> Download my CV <a href="https://gohugo.io" target="_blank" rel="noopener">here</a>.
- </small>
  </p>
 
   {{/* Display copyright license. */}}
   {{ partial "site_footer_license" . }}
 
-  <p class="powered-by"><smaller>
+  <p class="powered-by"><small>
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.</smaller>
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.</small></small>
 
     {{ if not (in (slice "docs" "updates") .Type) }}
     <span class="float-right" aria-hidden="true">
