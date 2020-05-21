@@ -43,7 +43,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/jcb.25380
+url_pdf: ''
 url_project: ''
 url_video: ''
 
