@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jenna T. B. Ekwealor
+title: Jenna T. B. Ekwealor
 
 # Username (this should match the folder name)
 authors:
