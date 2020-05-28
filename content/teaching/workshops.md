@@ -9,7 +9,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2006"
+date_format = "Jan 2006"
 
 # Teaching.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -19,30 +19,30 @@ date_format = "2006"
 [[experience]]
   title = "Biocrusts: The Living Skin of the Earth, Expanding Your Horizons, a STEM workshop for middle-school aged girls"
   company = "University of California, Berkeley"
-  date_start = "2019"
+  date_start = "Mar 2019"
 
 [[experience]]
   title = "Introduction to R, Git, Shell, and Reproducible Analysis in R"
   company = "Berkeley Institute for Data Science"
-  date_start = "2019"
+  date_start = "Jan 2019"
   description = "A Software Carpentry Workshop."
 
 [[experience]]
   title = "Biological Sciences Discipline-Cluster Workshops"
   company = "University of California, Berkeley"
-  date_start = "2018"
+  date_start = "Aug 2018"
   description = "A part of the Teaching Conference for First-Time Graduate Student Instructors."
-
-[[experience]]
-  title = "Introduction to R, Git, Shell, and R"
-  company = "Berkeley Institute for Data Science"
-  date_start = "2018"
-  description = "A Data Carpentry Workshop."
 
 [[experience]]
   title = "Introduction to Genomics Data Wrangling"
   company = "Berkeley Institute for Data Science"
-  date_start = "2018"
+  date_start = "Aug 2018"
+  description = "A Data Carpentry Workshop."
+  
+  [[experience]]
+  title = "Introduction to R, Git, Shell, and R"
+  company = "Berkeley Institute for Data Science"
+  date_start = "Jul 2018"
   description = "A Data Carpentry Workshop."
   
 +++
