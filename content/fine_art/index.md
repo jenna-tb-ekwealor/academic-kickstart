@@ -4,3 +4,5 @@ summary: Fine Art Gallery
 title: "Fine Art Gallery"
 type: widget_page
 ---
+
+{{< gallery >}}
