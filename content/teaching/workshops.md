@@ -20,6 +20,7 @@ date_format = "Jan 2006"
   title = "Biocrusts: The Living Skin of the Earth, Expanding Your Horizons, a STEM workshop for middle-school aged girls"
   company = "University of California, Berkeley"
   date_start = "2019-03-01"
+  date_end = ""
 
 [[experience]]
   title = "Introduction to R, Git, Shell, and Reproducible Analysis in R"
