@@ -50,4 +50,22 @@ subtitle = ""
  css_class = ""
 +++
 
-{{{< gallery album="gallery" >}} 
+   
+<a href="/img/catman.jpg" target="_blank"><img src="/img/catman.jpg" width=60% /></a>
+
+Catman. Acrylic on canvas, 16 in x 20 in.
+
+
+
+
+<br>
+
+<a href="/img/billy_ipad.jpg" target="_blank"><img src="/img/billy_ipad.jpg" width=60% /></a>
+
+Billy. Digital painting on an iPad with Apple Pencil.
+
+
+
+<h2> See more on my <a href="https://www.deviantart.com/jennatbee" target="_blank">DeviantArt</a> page.</h2>
+
+
