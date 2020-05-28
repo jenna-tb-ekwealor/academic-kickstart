@@ -13,6 +13,9 @@ subtitle = ""
 
     
 +++
+{{< gallery >}}
+   
+   
    
 <a href="/img/catman.jpg" target="_blank"><img src="/img/catman.jpg" width=60% /></a>
 
