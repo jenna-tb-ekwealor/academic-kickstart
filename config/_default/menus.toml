@@ -44,6 +44,24 @@
   weight = 50
 
   [[main]]
+  name = "Courses"
+  url = "/teaching#teaching"
+  weight = 1
+  parent = "Teaching"
+  
+  [[main]]
+  name = "Workshops"
+  url = "/teaching#workshops"
+  weight = 2
+  parent = "Teaching"
+
+  [[main]]
+  name = "Mentoring"
+  url = "/teaching#mentoring"
+  weight = 2
+  parent = "Teaching"
+  
+  [[main]]
   name = "Photo Gallery"
   url = "/gallery"
   weight = 60
