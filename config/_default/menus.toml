@@ -58,7 +58,7 @@
   [[main]]
   name = "Mentoring"
   url = "/teaching#mentoring"
-  weight = 2
+  weight = 3
   parent = "Teaching"
   
   [[main]]
