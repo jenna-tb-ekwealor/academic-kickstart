@@ -13,7 +13,7 @@ subtitle = ""
 
     
 +++
-{{< gallery >}}
+
    
    
    
