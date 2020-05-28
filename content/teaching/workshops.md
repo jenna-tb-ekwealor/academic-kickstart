@@ -1,50 +1,50 @@
 +++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Accomplishments widget.
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 weight = 50  # Order that this section will appear.
 
 title = "Workshops"
 subtitle = ""
 
-# Date format for experience
+# Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Teaching.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Biocrusts: The Living Skin of the Earth, Expanding Your Horizons, a STEM workshop for middle-school aged girls"
-  company = "University of California, Berkeley"
+  organization = "University of California, Berkeley"
   date_start = "2019-03-01"
   date_end = ""
 
-[[experience]]
+[[item]]
   title = "Introduction to R, Git, Shell, and Reproducible Analysis in R"
-  company = "Berkeley Institute for Data Science"
+  organization = "Berkeley Institute for Data Science"
   date_start = "2019-01-01"
   description = "A Software Carpentry Workshop."
 
-[[experience]]
+[[item]]
   title = "Biological Sciences Discipline-Cluster Workshops"
-  company = "University of California, Berkeley"
+  organization = "University of California, Berkeley"
   date_start = "2018-08-01"
   description = "A part of the Teaching Conference for First-Time Graduate Student Instructors."
 
-[[experience]]
+[[item]]
   title = "Introduction to Genomics Data Wrangling"
-  company = "Berkeley Institute for Data Science"
+  organization = "Berkeley Institute for Data Science"
   date_start = "2018-08-01"
   description = "A Data Carpentry Workshop."
   
-  [[experience]]
+[[item]]
   title = "Introduction to R, Git, Shell, and R"
-  company = "Berkeley Institute for Data Science"
+  organization = "Berkeley Institute for Data Science"
   date_start = "2018-07-01"
   description = "A Data Carpentry Workshop."
-  
+
 +++
 
