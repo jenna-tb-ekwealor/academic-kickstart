@@ -1,12 +1,7 @@
-+++
-# Gallery section using the Blank widget and Gallery element (shortcode).
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 66  # Order that this section will appear.
+---
+date: "2019-01-01T00:00:00Z"
+summary: Fine Art Gallery
+title: "Fine Art Gallery"
+type: widget_page
+---
 
-title = "Fine Art Gallery"
-subtitle = ""
-+++
-
-{{< gallery >}}
