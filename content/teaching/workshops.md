@@ -1,16 +1,51 @@
 +++
-# blank widget.
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Experience widget.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 weight = 50  # Order that this section will appear.
 
 title = "Workshops"
 subtitle = ""
 
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+# Teaching.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+[[experience]]
+  title = "Biocrusts: The Living Skin of the Earth," Expanding Your Horizons, a STEM workshop for middle-school aged girls"
+  company = "University of California, Berkeley"
+  date_start = "2019"
+
+[[experience]]
+  title = "Introduction to R, Git, Shell, and Reproducible Analysis in R"
+  company = "Berkeley Institute for Data Science"
+  date_start = "2019"
+  description = "A Software Carpentry Workshop."
+
+[[experience]]
+  title = "Biological Sciences Discipline-Cluster Workshops"
+  company = "University of California, Berkeley"
+  date_start = "2018"
+  description = "A part of the Teaching Conference for First-Time Graduate Student Instructors."
+
+[[experience]]
+  title = "Introduction to R, Git, Shell, and R"
+  company = "Berkeley Institute for Data Science"
+  date_start = "2018"
+  description = "A Data Carpentry Workshop."
+
+[[experience]]
+  title = "Introduction to Genomics Data Wrangling"
+  company = "Berkeley Institute for Data Science"
+  date_start = "2018"
+  description = "A Data Carpentry Workshop."
+  
 +++
 
-* "Biocrusts: The Living Skin of the Earth," Expanding Your Horizons, a STEM workshop for middle-school aged girls. Workshop Organizer and Co-Instructor. UC Berkeley, 2019. 
-* "Introduction to R, Git, Shell, and Reproducible Analysis in R," Software Carpentry. Workshop Helper. Berkeley Institute for Data Science, UC Berkeley, 2019. 
-* "Biological Sciences Discipline-Cluster Workshop," Teaching Conference for First-Time Graduate Student Instructors. Workshop Instructor. UC Berkeley, 2018. 
-* "Introduction to Shell, Git, and R," Data Carpentry. Workshop Helper. Berkeley Institute for Data Science, UC Berkeley, 2018. 
-* "Introduction to Genomics Data Wrangling," Data Carpentry. Workshop Helper. Berkeley Institute for Data Science, UC Berkeley, 2018.
