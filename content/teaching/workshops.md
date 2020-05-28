@@ -16,10 +16,8 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-
 [[experience]]
-  title = "Biocrusts: The Living Skin of the Earth," Expanding Your Horizons, a STEM workshop for middle-school aged girls"
+  title = "Biocrusts: The Living Skin of the Earth, Expanding Your Horizons, a STEM workshop for middle-school aged girls"
   company = "University of California, Berkeley"
   date_start = "2019"
 
