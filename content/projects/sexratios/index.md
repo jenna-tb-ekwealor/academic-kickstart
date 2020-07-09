@@ -22,12 +22,6 @@ links:
 #url_slides: ""
 #url_video: ""
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
 ---
 
- <i>Syntrichia caninervis</i> has one of the most extreme female-biased sex ratio of any plant, with as many as 17 females for every one male in some populations. But so far, most recorded sex ratio are based on presence of gametangia, which are rare in this species. For this project we are using a newly developed genetic sex-determing RFLP protocol and revisiting the very samples used in a 2000 study by <a href="https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.2307/2656595" target="_blank">Bowker <i>et al.</i></a> on expressed or phenotypic sex ratio in <i>S. caninervis</i> to see how the genetic sex ratio compares. This project is in collaboration with <a href="https://kfisherlab.weebly.com" target="_blank">Dr. Kirsten Fisher's</a> lab at California State University, Los Angeles, and with UC Berkeley undergraduate research apprentice <a href="https://urap.berkeley.edu/urap-summer/detail/4128" target="_blank">Jordan Jomsky</a>.
+<i>Syntrichia caninervis</i> has one of the most extreme female-biased sex ratio of any plant, with as many as 17 females for every one male in some populations. But so far, most recorded sex ratio are based on presence of gametangia, which are rare in this species. For this project we are using a newly developed genetic sex-determing RFLP protocol and revisiting the very samples used in a 2000 study by <a href="https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.2307/2656595" target="_blank">Bowker <i>et al.</i></a> on expressed or phenotypic sex ratio in <i>S. caninervis</i> to see how the genetic sex ratio compares. This project is in collaboration with <a href="https://kfisherlab.weebly.com" target="_blank">Dr. Kirsten Fisher's</a> lab at California State University, Los Angeles, and with UC Berkeley undergraduate research apprentice <a href="https://urap.berkeley.edu/urap-summer/detail/4128" target="_blank">Jordan Jomsky</a>.

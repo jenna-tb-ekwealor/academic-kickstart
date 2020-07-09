@@ -2,10 +2,11 @@
 title: Vascular plant spatial phylogenetics in the Mojave National Preserve
 summary: In collaboration with non-profit Blueprint Earth, an assessment of the phylogenetic diversity of a unique region of the Mojave Desert
 tags:
-#- *Syntrichia*
+#- Syntrichia
 - Biodiversity
 - Phylogenetics
 - Citizen Science
+- Field Work
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
