@@ -1,0 +1,33 @@
+---
+title: Extreme female-biased sex ratios 
+summary: *Syntrichia caninervis* has one of the most extreme female-biased sex ratio of any plant, with as many as 17 females for every one male in some populations.
+tags:
+- Field Work
+#- *Syntrichia*
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+Image:
+ caption: <i>Syntrichia caninervis</i>  
+ focal_point: Smart
+
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/Bryophyter
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides: example
+---
+
+ *Syntrichia caninervis* has one of the most extreme female-biased sex ratio of any plant, with as many as 17 females for every one male in some populations. But so far, most recorded sex ratio are based on presence of gametangia, which are rare in this species. For this project we are using a newly developed genetic sex-determing RFLP protocol and revisiting the very samples used in a 2000 study by <a href="https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.2307/2656595" target="_blank">Bowker <i>et al.</i></a> on expressed or phenotypic sex ratio in <i>S. caninervis</i> to see how the genetic sex ratio compares.  
