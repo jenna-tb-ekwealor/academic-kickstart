@@ -1,8 +1,7 @@
 ---
 title: Extreme female-biased sex ratios 
-summary: *Syntrichia caninervis* has one of the most extreme female-biased sex ratio of any plant, with as many as 17 females for every one male in some populations.
+summary: Syntrichia caninervis has one of the most extreme female-biased sex ratio of any plant, with as many as 17 females for every one male in some populations.
 tags:
-#- Field Work
 - Syntrichia
 
 # Optional external URL for project (replaces project detail page).
