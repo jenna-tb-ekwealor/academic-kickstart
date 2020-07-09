@@ -1,15 +1,15 @@
 ---
-title: Extreme female-biased sex ratios 
-summary: test *Syntrichia caninervis* has one of the most extreme female-biased sex ratio of any plant, with as many as 17 females for every one male in some populations.
+title: The photosynthetic effects of reduced UV on desert moss Syntrichia caninervis
+summary: Year-long UV reduction field experiment on *Syntrichia caninervis* in the Mojave Desert
 tags:
 - Field Work
-- *Syntrichia*
+#- *Syntrichia*
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 Image:
- caption: test <i>Syntrichia caninervis</i>  
+ caption: UV-reducing and UV-transmitting windows over <i>Syntrichia caninervis</i> cushions in the Mojave Desert.  
  focal_point: Smart
 
 links:
@@ -30,4 +30,4 @@ links:
 # slides: example
 ---
 
- <i>Syntrichia caninervis</i> has one of the most extreme female-biased sex ratio of any plant, with as many as 17 females for every one male in some populations. But so far, most recorded sex ratio are based on presence of gametangia, which are rare in this species. For this project we are using a newly developed genetic sex-determing RFLP protocol and revisiting the very samples used in a 2000 study by <a href="https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.2307/2656595" target="_blank">Bowker <i>et al.</i></a> on expressed or phenotypic sex ratio in <i>S. caninervis</i> to see how the genetic sex ratio compares.  
+Desert and dryland mosses spend much of their time in a desiccated and quiescent state—a strategy that allows them to avoid some physiological stress when water is limited or absent. However, these plants must still deal with consequences of their harsh environment upon rehydration and ‘waking up.’ To understand more about how dryland mosses cope with or limit damage from the environment while desiccated, I am investigating the mechanisms of UV radiation protection in *Syntrichia caninervis* using a year-long UV reduction experiment in the Mojave Desert.
