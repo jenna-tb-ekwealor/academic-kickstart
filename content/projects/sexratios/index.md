@@ -1,6 +1,6 @@
 ---
-title: The photosynthetic effects of reduced UV on desert moss Syntrichia caninervis
-summary: Year-long UV reduction field experiment on *Syntrichia caninervis* in the Mojave Desert
+title: Extreme female-biased sex ratios 
+summary: *Syntrichia caninervis* has one of the most extreme female-biased sex ratio of any plant, with as many as 17 females for every one male in some populations.
 tags:
 #- Field Work
 - Syntrichia
@@ -9,7 +9,7 @@ tags:
 external_link: ""
 
 Image:
- caption: UV-reducing and UV-transmitting windows over <i>Syntrichia caninervis</i> cushions in the Mojave Desert.  
+ caption: <i>Syntrichia caninervis</i> antheridia (sperm-producing sex organs).  
  focal_point: Smart
 
 links:
