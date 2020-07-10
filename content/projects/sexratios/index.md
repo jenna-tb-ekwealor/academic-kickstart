@@ -1,6 +1,6 @@
 ---
 title: Extreme female-biased sex ratios 
-summary: Desert moss *Syntrichia caninervis** has one of the most extreme female-biased sex ratio of any plant, with as many as 17 females for every one male in some populations.
+summary: Comparing genotypic and phenotypic sex ratios in *Syntrichia caninervis*, which has one of the most extreme female-biased sex ratio of any plant 
 tags:
 - Syntrichia
 
