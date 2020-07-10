@@ -8,7 +8,7 @@ tags:
 external_link: ""
 
 Image:
- caption: <i>Syntrichia caninervis</i> antheridia (sperm-producing sex organs).  
+ caption: Male <i>Syntrichia caninervis</i> with antheridia (sperm-producing sex organs).  
  focal_point: Smart
 
 links:
