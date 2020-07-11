@@ -19,28 +19,3 @@ menu:
     weight: 1
 ---
 
-## [Curso básico]({{< ref "/tutoriales/latex/curso-basico.md" >}})
-
-## [Presentaciones con beamer]({{< ref "/tutoriales/latex/beamer.md" >}})
-
-{{% alert note %}}
-Próximamente...
-{{% /alert %}}
-
-## [Pósters con beamerposter]({{< ref "/tutoriales/latex/beamerposter.md" >}})
-
-{{% alert note %}}
-Próximamente...
-{{% /alert %}}
-
-## [Gráficas con PGFPlots]({{< ref "/tutoriales/latex/PGFPlots.md" >}})
-
-{{% alert note %}}
-Próximamente...
-{{% /alert %}}
-
-## [Gráficos vectoriales con Ti*k*Z & PGF]({{< ref "/tutoriales/latex/Tikz-PGF.md" >}})
-
-{{% alert note %}}
-Próximamente...
-{{% /alert %}}
