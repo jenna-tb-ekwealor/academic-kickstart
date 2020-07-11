@@ -1,6 +1,9 @@
 ---
-date: "2019-01-01T00:00:00Z"
-summary: Fine Art Gallery
-title: "Fine Art Gallery"
-type: widget_page
+title: Guides
+layout: docs  # Do not modify.
+
+# Optional header image (relative to `static/img/` folder).
+#header:
+#  caption: "Foto adaptada de [**Alexei Scutari**](https://unsplash.com/@scutal) en [Unsplash](https://unsplash.com)"
+#  image: "tutoriales-header.jpg"
 ---
