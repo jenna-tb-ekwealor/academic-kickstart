@@ -7,7 +7,7 @@ weight: 1
 # Page metadata.
 title: Introduction to Grant Writing
 draft: false  # Is this a draft? true/false
-toc: false  # Show table of contents? true/false
+toc: truee  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
