@@ -5,8 +5,11 @@ toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
 menu:
-  grantwriting3:
+  grantwriting:
     parent: Grant Writing
     weight: 2
 
