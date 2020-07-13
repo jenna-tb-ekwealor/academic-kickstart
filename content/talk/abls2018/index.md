@@ -2,7 +2,7 @@
 title: UV tolerance in Mojave Desert biological soil crust mosses
 event: American Bryological and Lichenological Society 2018
 event_url: https://abls.allenpress.com/abls/ANNUALMEETING.aspx
-location: Nederland, CO, USA
+location: Nederland, Colorado, USA
 summary: The photosynthetic and transcriptomic effects of a year-long UV-reduction experiment on natural populations of *Syntrichia caninervis*.
 abstract: Terrestrial mosses dehydrate and go quiescent between precipitation events. Although many mosses are found in cool, low light environments, a number are abundant in drylands. We investigated the effects of ultraviolet (UV) radiation on the desert moss *Syntrichia caninervis*. This species is highly desiccation tolerant; it can lose almost all of its cellular water and recover after rehydration. In nature, desert mosses not only have to withstand the damage of desiccation itself but must also be able to recover from any damage incurred while dry, or have adequate mechanisms for injury prevention. They have no ability for active repair when quiescent and face risk of damage to sensitive molecules, including DNA, which absorbs UV wavelengths. We used chlorophyll fluorescence and transcriptomics in field and laboratory experiments to better understand the dimensions of UV tolerance in *S. caninervis*. 
 
