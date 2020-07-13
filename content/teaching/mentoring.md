@@ -12,11 +12,11 @@ subtitle = ""
 
 ### Current mentees
 
-* Dean Berkowitz, UCB Class of 2020
 * Jordan Jomsky, UCB Class of 2021
 
 ### Former mentees
 
+* Dean Berkowitz, UCB Class of 2020
 * Heloise Carion, UCB Class of 2021
 * Shloka Reddy, UCB Class of 2021
 * Easha Sagar, UCB Class of 2019
