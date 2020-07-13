@@ -1,9 +1,9 @@
 ---
-title: Adaptation, facilitation, and refugia in Mojave Desert mosses
-event: California Botanical Society Graduate Symposium 2017
+title: Natural desert terraria, Characterization of hypolithic Mojave Desert moss community
+event: California Botanical Society Graduate Symposium 2015
 event_url: https://calbotsoc.org/annual-banquet/
-location: Santa Barbara, California, USA
-summary: An overview of my in-progress dissertation on UV and desiccation tolerance in *Syntrichia*.
+location: Claremont, California, USA
+summary: 
 abstract: 
 
 # Talk start and end times.
