@@ -16,7 +16,13 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
+[[item]]
+  title = "Biological Sciences Discipline-Cluster Workshops"
+  organization = "University of California, Berkeley"
+  date_start = "2020-08-21"
+  description = "Virtual Teaching Conference for First-Time Graduate Student Instructors."
+
+[[item]]
   title = "Biocrusts: The Living Skin of the Earth, Expanding Your Horizons, a STEM workshop for middle-school aged girls"
   organization = "University of California, Berkeley"
   date_start = "2019-03-01"
@@ -26,25 +32,25 @@ date_format = "Jan 2006"
   title = "Introduction to R, Git, Shell, and Reproducible Analysis in R"
   organization = "Berkeley Institute for Data Science"
   date_start = "2019-01-01"
-  description = "A Software Carpentry Workshop."
+  description = "Software Carpentry Workshop."
 
 [[item]]
   title = "Biological Sciences Discipline-Cluster Workshops"
   organization = "University of California, Berkeley"
   date_start = "2018-08-01"
-  description = "A part of the Teaching Conference for First-Time Graduate Student Instructors."
+  description = "Teaching Conference for First-Time Graduate Student Instructors."
 
 [[item]]
   title = "Introduction to Genomics Data Wrangling"
   organization = "Berkeley Institute for Data Science"
   date_start = "2018-08-01"
-  description = "A Data Carpentry Workshop."
+  description = "Data Carpentry Workshop."
   
 [[item]]
   title = "Introduction to R, Git, Shell, and R"
   organization = "Berkeley Institute for Data Science"
   date_start = "2018-07-01"
-  description = "A Data Carpentry Workshop."
+  description = "Data Carpentry Workshop."
 
 +++
 
