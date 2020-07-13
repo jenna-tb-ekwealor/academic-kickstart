@@ -12,7 +12,7 @@ date: "2020-07-27T13:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-# publishDate: "2019-08-01"
+ publishDate: "2020-07-01"
 
 # authors: jennatbekwealor
 # tags: []
