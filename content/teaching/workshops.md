@@ -23,10 +23,11 @@ date_format = "Jan 2006"
   description = "Virtual Teaching Conference for First-Time Graduate Student Instructors."
 
 [[item]]
-  title = "Biocrusts: The Living Skin of the Earth, Expanding Your Horizons, a STEM workshop for middle-school aged girls"
+  title = "Biocrusts: The Living Skin of the Earth"
   organization = "University of California, Berkeley"
   date_start = "2019-03-01"
   date_end = ""
+  description = "Expanding Your Horizons, a STEM workshop for middle-school aged girls"
 
 [[item]]
   title = "Introduction to R, Git, Shell, and Reproducible Analysis in R"
