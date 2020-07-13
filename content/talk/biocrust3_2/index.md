@@ -1,5 +1,5 @@
 ---
-title: Desert terraria, characterization of a Mojave Desert moss community under quartz rocks
+title: Males of the Mojave Desert moss *Syntrichia caninervis* (Pottiaceae) are rare and shy
 event: Biocrust3
 event_url: https://in.nau.edu/biocrust3/
 location: Moab, Utah, USA
@@ -8,7 +8,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2016-09-26T13:00:00Z"
+date: "2016-09-30T13:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
