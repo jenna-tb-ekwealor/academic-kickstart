@@ -16,6 +16,21 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Graduate Student Instructor"
+  company = "University of California, Berkeley"
+  date_start = "2020-08-20"
+  date_end = "2020-12-06"
+  description = "Academic Survivorship"
+  
+[[experience]]
+  title = "Graduate Student Instructor"
+  company = "University of California, Berkeley"
+  date_start = "2020-08-20"
+  date_end = "2020-12-07"
+  description = "Integrative Human Biology"
+
 [[experience]]
   title = "Graduate Student Instructor"
   company = "University of California, Berkeley"
