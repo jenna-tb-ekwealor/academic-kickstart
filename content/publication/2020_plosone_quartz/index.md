@@ -4,7 +4,7 @@ authors:
 - Jenna T. B. Ekwealor*
 - Kirsten Fisher
 date: "2020-07-22T00:00:00Z"
-doi: "10.3732/ajb.1700045"
+doi: "10.1371/journal.pone.0235928"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-07-12T00:00:00Z"
