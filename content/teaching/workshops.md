@@ -16,6 +16,14 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  title = "Biological Sciences Discipline-Cluster Workshops"
+  organization = "University of California, Berkeley"
+  date_start = "2020-08-21"
+  description = "Teaching Conference for First-Time Graduate Student Instructors"
+  
+  
 [[item]]
   title = "Biological Sciences Discipline-Cluster Workshops"
   organization = "University of California, Berkeley"
