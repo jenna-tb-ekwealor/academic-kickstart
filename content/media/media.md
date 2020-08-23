@@ -20,6 +20,10 @@ subtitle = ""
 <i>"Sheltering under translucent quartz stones shields the moss from heat, cold, drought and intense ultraviolet rays."</i> 
 <br>
 <br>
+Ben Goldberg. “Hypolithic.” PLAGUE DIARY, 1 August 2020, <a href="ben-goldberg--bag-production-records.bandcamp.com/track/august-1-2020-hypolithic-dedication-to-dr-kirsten-fisher-jenna-ekwealor" target="_blank">LINK</a>.
+<i>A clarinet jazz song inspired by hypolithic moss and dedicated to my co-author <a href="https://kfisherlab.weebly.com/people.html" target="_blank">Dr. Kirsten Fisher</a> and me.</i> 
+<br>
+<br>
 <h4>Imbler, Sabrina. “This Moss Uses Quartz as a Parasol.” <i>The New York Times</i>, 29 July 2020, <a href="https://www.nytimes.com/2020/07/29/science/moss-quartz-biology-syntrichia.html" target="_blank">LINK</a>. Accessed 23 August 2020.</h4>
 <i>"In the Mojave Desert, a translucent crystal offers bryophytes much-needed respite from the heat of the sun."</i> 
 <br>
