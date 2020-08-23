@@ -16,15 +16,14 @@ subtitle = ""
 <i>"Researchers find the translucent rocks keep the moss moist while letting just enough light pass through its milky interior."</i> 
 <br>
 <br>
-<h3>Simons, Paul. “Desert mosses use quartz rocks as sun shades.” <i>The New York Times</i>, 23 July 2020, <a href="https://news.berkeley.edu/2020/07/23/desert-mosses-use-quartz-rocks-as-sun-shades/" target="_blank">LINK</a>. Accessed 23 August 2020.</h3>
-<i>"In the Mojave Desert, a translucent crystal offers bryophytes much-needed respite from the heat of the sun."</i> 
+<h3>Simons, Paul. “Desert mosses use quartz rocks as sun shades.” <i>The Guardian</i>, 18 August 2020, <a href="https://www.theguardian.com/science/2020/aug/18/plantwatch-how-a-miraculous-moss-keeps-cool-in-the-mojave-desert" target="_blank">LINK</a>. Accessed 23 August 2020.</h3>
+<i>"Sheltering under translucent quartz stones shields the moss from heat, cold, drought and intense ultraviolet rays."</i> 
 <br>
 <br>
 <h3>Imbler, Sabrina. “This Moss Uses Quartz as a Parasol.” <i>The New York Times</i>, 29 July 2020, <a href="https://www.nytimes.com/2020/07/29/science/moss-quartz-biology-syntrichia.html" target="_blank">LINK</a>. Accessed 23 August 2020.</h3>
 <i>"In the Mojave Desert, a translucent crystal offers bryophytes much-needed respite from the heat of the sun."</i> 
 <br>
 <br>
-<h3>Sanders, Robert. “Plantwatch: how a miraculous moss keeps cool in the Mojave desert.” <i>The Guardian</i>, 23 July 2020, <a href="https://www.theguardian.com/science/2020/aug/18/plantwatch-how-a-miraculous-moss-keeps-cool-in-the-mojave-desert" target="_blank">LINK</a>. Accessed 23 August 2020.</h3>
-<i>"Sheltering under translucent quartz stones shields the moss from heat, cold, drought and intense ultraviolet rays."</i> 
+<h3>Sanders, Robert. “Plantwatch: how a miraculous moss keeps cool in the Mojave desert.” <i>The Guardian</i>, 23 July 2020, <a href="https://news.berkeley.edu/2020/07/23/desert-mosses-use-quartz-rocks-as-sun-shades/" target="_blank">LINK</a>. Accessed 23 August 2020.</h3>
 <br>
 <br>
