@@ -18,7 +18,7 @@ organizations:
   url: "https://bryolab.berkeley.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a UC Berkeley PhD Candidate studying evolution & ecology of desiccation-tolerant desert mosses.
+bio: I am a UC Berkeley PhD Candidate studying evolution & eco-physiology of desiccation-tolerant desert mosses.
 
 
 interests:
@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Integrative Biology
+    institution: University of California, Berkeley
+    year: December 2020
   - course: M.S. in Environmental Science, Biology Option
     institution: California State University, Los Angeles
     year: 2015
@@ -76,5 +79,5 @@ email: jenna.ekwealor@gmail.com
 
 
 
-I'm a PhD Candidate, Berkeley Fellow, and NSF NRT alum in <a href="https://ib.berkeley.edu" target="_blank">Integrative Biology at UC Berkeley</a>. I am fascinated by the very small: those organisms that are easily overlooked by macrobes like ourselves. I am also excited by extremophiles: those that can survive and thrive in conditions thought to be difficult for life itself. These interests come together in studying mosses. These small plants have found a way to only truly ‘live’ when conditions are right (that is, when enough water is present), and dry out and go quiescent when water is absent. For desert mosses that is most of the time! Yet, almost miraculously, dryland mosses are able to quickly begin to grow and thrive again, while recovering from damage that accumulated while they were desiccated. I find this process fascinating and I am interested in thinking about the evolutionary (both micro and macro) implications of this way of life.
+In January 2021 I'll be joining the Smithsonian Institution <a href="https://datascience.si.edu" target="_blank">Data Science Lab</a> as a Biodiversity Genomics Postdoctoral Fellow. I am fascinated by the very small: those organisms that are easily overlooked by macrobes like ourselves. I am also excited by extremophiles: those that can survive and thrive in conditions thought to be difficult for life itself. These interests come together in studying mosses. These small plants have found a way to only truly ‘live’ when conditions are right (that is, when enough water is present), and dry out and go quiescent when water is absent. For desert mosses that is most of the time! Yet, almost miraculously, dryland mosses are able to quickly begin to grow and thrive again, while recovering from damage that accumulated while they were desiccated. I find this process fascinating and I am interested in thinking about the evolutionary (both micro and macro) implications of this way of life.
 
