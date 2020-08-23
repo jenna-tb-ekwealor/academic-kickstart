@@ -34,6 +34,11 @@
   weight = 35
 
   [[main]]
+  name = "Media"
+  url = "#media"
+  weight = 37
+
+  [[main]]
   name = "Blog"
   url = "#posts"
   weight = 40
@@ -48,7 +53,7 @@
   url = "/teaching#teaching"
   weight = 1
   parent = "Teaching"
-  
+
   [[main]]
   name = "Workshops"
   url = "/teaching#workshops"
@@ -60,7 +65,7 @@
   url = "/teaching#mentoring"
   weight = 3
   parent = "Teaching"
-  
+
   [[main]]
   name = "Photo Gallery"
   url = "/gallery"
