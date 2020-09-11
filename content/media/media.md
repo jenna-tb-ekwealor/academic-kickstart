@@ -43,7 +43,7 @@ Taylor, Christie. <b>“These Moss Are Living Their Best Life—Under Rocks.”<
 
 <h2>Other</h2>
 <h3><a href="https://ben-goldberg--bag-production-records.bandcamp.com/track/august-1-2020-hypolithic-dedication-to-dr-kirsten-fisher-jenna-ekwealor" target="_blank"><i>Original Music</i></a></h3>
-Ben Goldberg. <b>“Hypolithic.”</b> PLAGUE DIARY, 1 August 2020. Accessed 23 August 2020.
+Goldberg, Ben. <b>“Hypolithic.”</b> PLAGUE DIARY, 1 August 2020. Accessed 23 August 2020.
 
 <i>A clarinet jazz song inspired by hypolithic moss and dedicated to my co-author <a href="https://kfisherlab.weebly.com/people.html" target="_blank">Dr. Kirsten Fisher</a> and me.</i> 
 <br>
