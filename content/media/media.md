@@ -35,6 +35,14 @@ Sanders, Robert. <b>“Plantwatch: how a miraculous moss keeps cool in the Mojav
 <br>
 <br>
 
+<h2>Radio</h2>
+<h3><a href="https://www.sciencefriday.com/segments/moss/" target="_blank"><i>Science Friday</i></a></h3>
+Taylor, Christie. <b>“These Moss Are Living Their Best Life—Under Rocks.”</b> 11 September 2020. Accessed 11 September 2020.
+
+<i>"Desert mosses live a much different life than their cousins in lush, water-rich forests. In fact, they spend most of their time dormant: dried out, waiting for the rare rainfall to bring them to life so they can grow and reproduce. Once exposed to water, though, these same mosses can re-animate quickly—within minutes they’re back to photosynthesizing."</i> 
+<br>
+
+
 <h2>Other</h2>
 <h3><a href="https://ben-goldberg--bag-production-records.bandcamp.com/track/august-1-2020-hypolithic-dedication-to-dr-kirsten-fisher-jenna-ekwealor" target="_blank"><i>Original Music</i></a></h3>
 Ben Goldberg. <b>“Hypolithic.”</b> PLAGUE DIARY, 1 August 2020. Accessed 23 August 2020.
