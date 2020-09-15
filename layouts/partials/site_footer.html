@@ -11,7 +11,7 @@
   </p>
   {{ end }}
 
-  <p class="powered-by"><small>
+  <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
 <br> Download my CV <a href="files/cv.pdf" target="_blank" rel="noopener">here</a>.
  </p>
@@ -22,7 +22,7 @@
   <p class="powered-by">
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.</small>
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
     {{ if not (in (slice "docs" "updates") .Type) }}
     <span class="float-right" aria-hidden="true">
