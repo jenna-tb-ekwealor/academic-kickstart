@@ -18,6 +18,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Gradere"
+  company = "University of California, Berkeley"
+  date_start = "2020-09-01"
+  date_end = "2020-12-06"
+  description = "California Natural History"
+
+[[experience]]
   title = "Graduate Student Instructor"
   company = "University of California, Berkeley"
   date_start = "2020-08-20"
