@@ -55,15 +55,15 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Teaching Assistant"
   company = "California State University, Los Angeles"
-  date_start = "2014-01-20"
-  date_end = "2014-06-15"
+  date_start = "2015-01-20"
+  date_end = "2015-06-15"
   description = "Ecology Laboratory"
   
   [[experience]]
   title = "Teaching Assistant"
   company = "California State University, Los Angeles"
-  date_start = "2014-01-20"
-  date_end = "2014-06-15"
+  date_start = "2014-07-20"
+  date_end = "2014-12-15"
   description = "Plant Biology Laboratory"
 
 [[experience]]
