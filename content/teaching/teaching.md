@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   company = "University of California, Berkeley"
   date_start = "2020-08-20"
   date_end = "2020-12-06"
-  description = "Academic Survivorship"
+  description = "Thriving in Academia"
   
 [[experience]]
   title = "Graduate Student Instructor"
