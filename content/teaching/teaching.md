@@ -18,6 +18,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Part-time Faculty"
+  company = "Merritt College, Peralta Community College District""
+  date_start = "2020-10-27"
+  date_end = "2020-12-18"
+  description = "Natural History of the Bay Area: Bryophytes"
+
+[[experience]]
   title = "Grader"
   company = "University of California, Berkeley"
   date_start = "2020-09-01"
