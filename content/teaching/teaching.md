@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Part-time Faculty"
-  company = "Merritt College, Peralta Community College District""
+  company = "Merritt College, Peralta Community College District"
   date_start = "2020-10-27"
   date_end = "2020-12-18"
   description = "Natural History of the Bay Area: Bryophytes"
