@@ -1,11 +1,3 @@
----@article{Silva2020,
-author = {and Stark, Lloyd R. and Li, Xiaoshuang and Zhang, Daoyuan and Bowker, Mathew and Brinda, John and Coe, Kirsten and Oliver, Melvin J.},
-journal = {The Plant Journal},
-title = {{To dry perchance to live: insights from the genome of the desiccation-tolerant biocrust moss Syntrichia caninervis}},
-volume = {In Press},
-year = {2020}
-}
-
 title: "To dry perchance to live: insights from the genome of the desiccation-tolerant biocrust moss Syntrichia caninervis"
 authors:
 - Anderson T. Silva*
