@@ -17,26 +17,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
-  title = "Part-time Faculty"
-  company = "Merritt College, Peralta Community College District"
-  date_start = "2020-10-27"
-  date_end = "2020-12-18"
-  description = "Natural History of the Bay Area: Bryophytes"
 
-[[experience]]
-  title = "Grader"
-  company = "University of California, Berkeley"
-  date_start = "2020-09-01"
-  date_end = "2020-12-06"
-  description = "California Natural History"
-
-[[experience]]
-  title = "Graduate Student Instructor"
-  company = "University of California, Berkeley"
-  date_start = "2020-08-20"
-  date_end = "2020-12-06"
-  description = "Thriving in Academia"
   
 [[experience]]
   title = "Graduate Student Instructor"
