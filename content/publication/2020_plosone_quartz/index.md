@@ -26,7 +26,7 @@ abstract: 'Several species of dryland cyanobacteria are known to occur as hypoli
 tags:
 - niche partitioning
 - Syntrichia
-featured: false
+featured: true
 
 # links:
 # - name: ""
