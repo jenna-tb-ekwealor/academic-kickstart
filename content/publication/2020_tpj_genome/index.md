@@ -1,5 +1,5 @@
 ---
-title: "To dry perchance to live: insights from the genome of the desiccation-tolerant biocrust moss Syntrichia caninervis"
+title: "To dry perchance to live: insights from the genome of the desiccation-tolerant biocrust moss *Syntrichia caninervis*"
 authors:
 - Anderson T. Silva*
 - Bei Gao
