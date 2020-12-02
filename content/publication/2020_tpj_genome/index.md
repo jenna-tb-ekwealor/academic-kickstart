@@ -1,7 +1,7 @@
 ---
 title: "To dry perchance to live: insights from the genome of the desiccation-tolerant biocrust moss Syntrichia caninervis"
 authors:
-- Anderson T. Silva*
+- Anderson T. Silva
 - Bei Gao
 - Kirsten M. Fisher
 - Brent D. Mishler
