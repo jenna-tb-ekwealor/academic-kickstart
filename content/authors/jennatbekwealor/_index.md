@@ -31,7 +31,7 @@ education:
   courses:
   - course: Ph.D. in Integrative Biology
     institution: University of California, Berkeley
-    year: December 2020
+    year: 2020
   - course: M.S. in Environmental Science, Biology Option
     institution: California State University, Los Angeles
     year: 2015
