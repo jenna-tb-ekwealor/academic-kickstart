@@ -10,19 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Biodiversity Genomics Postdoctoral Fellow (Jan. 2021)
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Berkeley
-  url: "https://bryolab.berkeley.edu"
+- name: Smithsonian Institution
+  url: "https://datascience.si.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a UC Berkeley PhD Candidate studying evolution & eco-physiology of desiccation-tolerant desert mosses.
+bio: I am a Biodiversity Genomics Postdoctoral Fellow studying evolutionary eco-physiology of stress tolerance in plants with the Smithsonian Institution Data Science Lab.
 
 
 interests:
 - Evolutionary Biology
+- Eco-physiology
 - Botany
 - Data Science & Bioinformatics
 - Fine Arts
