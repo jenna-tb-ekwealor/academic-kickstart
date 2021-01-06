@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Biodiversity Genomics Postdoctoral Fellow (Jan. 2021)
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
