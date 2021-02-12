@@ -18,10 +18,10 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Biological Sciences Discipline-Cluster Workshops"
-  organization = "University of California, Berkeley"
-  date_start = "2020-08-21"
-  description = "Teaching Conference for First-Time Graduate Student Instructors"
+  title = "Wonders of a Dryland moss: Syntrichia from genomes to ecosystems"
+  organization = "Jepson Herbarium"
+  date_start = "2021-01-30"
+  description = "Hosted in partnership between the Jepson Herbarium and the collaborative research project “Desiccation and Diversity in Dryland Mosses,” with funding provided by the US National Science Foundation under the Dimensions of Biodiversity program."
   
   
 [[item]]
