@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Wonders of a Dryland moss: Syntrichia from genomes to ecosystems"
   organization = "Jepson Herbarium"
   date_start = "2021-01-30"
-  description = "Hosted in partnership between the Jepson Herbarium and the collaborative research project "3DMoss: Desiccation and Diversity in Dryland Mosses,” with funding provided by the US National Science Foundation under the Dimensions of Biodiversity program. Now available as a self-paced <a href="https://3dmoss.berkeley.edu/community-outreach/public-workshops/wonders-of-a-dryland-moss/" target="_blank">virtual workshop.<a>"
+  description = "Hosted in partnership between the Jepson Herbarium and the collaborative research project "3DMoss: Desiccation and Diversity in Dryland Mosses,” with funding provided by the US National Science Foundation under the Dimensions of Biodiversity program."
   
   
 [[item]]
