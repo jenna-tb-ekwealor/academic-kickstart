@@ -3,7 +3,7 @@
 
 title: "Wonders of a dryland moss"
 subtitle: ""
-summary: "A virtual workshop exploring the dimensions of biodiversity in the dryland moss genus Syntrichia."
+summary: "I co-led virtual workshop exploring the dimensions of biodiversity in the dryland moss genus Syntrichia."
 authors: []
 tags: 
 - Workshop
@@ -21,7 +21,7 @@ draft: false
 
 image: 
   caption: "Syntrichia caninervis"
-  focal_point: "Smart"
+  focal_point: "Top"
   preview_only: false
   
   
