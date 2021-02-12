@@ -29,46 +29,9 @@ image:
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = ["3dmoss"]`.
-projects: []
+#   Otherwise, set `projects = []`.
+projects: ["3dmoss"]
 
-
-gallery_item:
-- album: nicaralbum
-  image: mardigras.png
-  caption: I was there just after Mardi Gras and decorations were still up.
-
-- album: nicaralbum
-  image: mule.JPG
-  caption: Mules pull carriages around the French Quarter.
-
-- album: nicaralbum
-  image: coffee.JPG
-  caption: Beignets and coffee with chicory were a high priority.
-
-- album: nicaralbum
-  image: crawfish.JPG
-  caption: I was lucky enough to be invited to a local backyard crawfish boil. 
-
-- album: nicaralbum
-  image: local.png
-  caption: Fellow DS421 NRT alumn Sara Stoudt (@sastoudt on Twitter) and I made sure to hit up local favorite spots, too. 
-
-- album: nicaralbum
-  image: alligator.JPG
-  caption: I got to see alligators in the Pearl River on a boat ride to Honey Island. 
-  
-- album: nicaralbum
-  image: pig.JPG
-  caption: A very exciting moment running into this adorable (but damaging, I know) feral pig in the Honey Island swamp. 
-  
-- album: nicaralbum  
-  image: mangrove.JPG
-  caption: Not to be out done by the big, the black mangroves (*Avicennia germinans*) were also a sight to behold.
-  
-  
 ---
 
-I attended a conference that was outside my field of expertise this year as a part of the NSF traineeship (NRT) I participated in, <a href="http://ds421.berkeley.edu">Environment & Society, Data Sciences for the 21st Century (DS421)</a>. The conference was the National Institute of Computer-Assisted Reporting by the Investigative Reporters & Editors society (<a href="https://www.ire.org/events-and-training/conferences/nicar-2020" target="_blank">NICAR2020</a>) held in New Orleans, Louisiana. I attended because I wanted to learn science and data communication from the professionals: data journalists. It was fascinating to see the similarities and differences between our fields and approaches. I learned a lot at this conference and definitely feel better equipped to share my data, especially in online formats. I also feel more prepared to one day work with a journalist who might be interested in a writing a story on my science. The conference was held just adjacent to the French Quarter in NOLA. It was my first time visiting the city (a bucket list item, for sure). The people, culture, and architecture of NOLA are just beautiful, and the food and drink are delicious. I even snuck in a swamp tour the morning before my flight. It was a great experience!
-
-{{< gallery album="nicaralbum" >}}
+Myself and several collaborators on the <a href="https://3dmoss.berkeley.edu" target="_blank">3D Moss project</a> got together to host a virtual workshop in collaboration with the <a href="https://ucjeps.berkeley.edu" target="_blank">Jepson Herbarium</a>. Funded by the NSF, participants were mailed workshop materials ahead of time, including a hand lens, Gathering Moss by Robin Wall-Kimmerer, and an individual specimen of Syntrichia princeps for a rehydration activity. The workshop was geared to participants from all backgrounds as Dr. Wall-Kimmerer’s book served as an excellent introduction to mosses. Presentations were kept short and accessible, and covered a range of 3DMoss research topics including bryophyte biology, genomics, physiology, reproduction, and ecology of biological soil crusts. This broad perspective gave participants a tour of the genus Syntrichia from all the fascinating angles our team studies. The virtual format, necessary for safety reasons, actually allowed for much greater accessibility, as was demonstrated by participants from all across North America. We are happy to say that we’ve received positive feedback from participants and we can deem the workshop a success. All the presentations were recorded and are now available as a self-paced, <a href="https://3dmoss.berkeley.edu/community-outreach/public-workshops/wonders-of-a-dryland-moss/" target="_blank">virtual workshop</a>. It was a ton of fun to hear from the collaborators and even more so to chat with the participants. People from all backgrounds attended and it made for very interesting discussions in the break-out sessions. I'm really looking forward to doing something like this again!
