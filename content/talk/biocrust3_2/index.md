@@ -1,5 +1,5 @@
 ---
-title: Males of the Mojave Desert moss Syntrichia caninervis (Pottiaceae) are rare and shy
+title: Males of the Mojave Desert moss 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖 𝙘𝙖𝙣𝙞𝙣𝙚𝙧𝙫𝙞𝙨 (Pottiaceae) are rare and shy
 event: Biocrust3
 event_url: https://in.nau.edu/biocrust3/
 location: Moab, Utah, USA

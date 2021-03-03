@@ -1,5 +1,5 @@
 ---
-title: The combined effects of UV and desiccation on dryland mosses of the genus Syntrichia
+title: The combined effects of UV and desiccation on dryland mosses of the genus 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖
 summary: Transcriptomics & metabolomics of combined desiccation and UV stresses in two species
 tags:
 - Bioinformatics

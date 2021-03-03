@@ -1,5 +1,5 @@
 ---
-title: The effects of natural sunlight and UV radiation on photosynthesis in the Mojave Desert moss, Syntrichia caninervis
+title: The effects of natural sunlight and UV radiation on photosynthesis in the Mojave Desert moss, 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖 𝙘𝙖𝙣𝙞𝙣𝙚𝙧𝙫𝙞𝙨
 event: Botany 2019
 event_url: https://botanyconference.org
 location: Virtual!

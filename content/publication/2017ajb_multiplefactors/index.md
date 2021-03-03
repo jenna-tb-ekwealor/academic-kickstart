@@ -1,5 +1,5 @@
 ---
-title: "Multiple factors influence population sex ratios in the Mojave Desert moss Syntrichia caninervis"
+title: "Multiple factors influence population sex ratios in the Mojave Desert moss 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖 𝙘𝙖𝙣𝙞𝙣𝙚𝙧𝙫𝙞𝙨"
 authors:
 - Jenna T. Baughman Ekwealor*
 - Adam Payton

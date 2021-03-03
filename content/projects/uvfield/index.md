@@ -1,5 +1,5 @@
 ---
-title: The photosynthetic effects of reduced UV on desert moss Syntrichia caninervis
+title: The photosynthetic effects of reduced UV on desert moss 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖 𝙘𝙖𝙣𝙞𝙣𝙚𝙧𝙫𝙞𝙨
 summary: Year-long UV reduction field experiment on *Syntrichia caninervis* in the Mojave Desert
 tags:
 - Field Work
