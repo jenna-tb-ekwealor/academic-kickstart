@@ -9,8 +9,8 @@ authors:
 - Lloyd R. Stark
 - Krishna K. Niyogi
 - Brent D. Mishler
-date: "2020-11-30T00:00:00Z"
-doi: "10.1111/tpj.15116"
+date: "2021-02-17T00:00:00Z"
+doi: "10.1093/jxb/erab051"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-11-29T00:00:00Z"
