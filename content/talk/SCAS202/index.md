@@ -1,5 +1,5 @@
 ---
-title: Moss with a suntan: The effects of natural ultraviolet radiation on the Mojave Desert moss 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖 𝙘𝙖𝙣𝙞𝙣𝙚𝙧𝙫𝙞𝙨
+title: Moss with a suntan- The effects of natural ultraviolet radiation on the Mojave Desert moss 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖 𝙘𝙖𝙣𝙞𝙣𝙚𝙧𝙫𝙞𝙨
 event: Southern California Academy of Sciences Annual Meeting, May 7, 2021
 event_url: https://scas.nhm.org/annual-meeting/
 location: Virtual
