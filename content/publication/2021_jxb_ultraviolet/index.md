@@ -45,8 +45,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'A partially hydrated *Syntrichia caninervis* shoot.'
-  focal_point: ""
+  caption: 'Two dry and dark brown *Syntrichia caninervis* shoots.'
+  focal_point: "smart"
   preview_only: false
 
 # Associated Projects (optional).
@@ -54,7 +54,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: uvfield
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
