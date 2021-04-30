@@ -1,14 +1,14 @@
 ---
-title: Adaptation, acclimation, and refugia- How mosses survive and thrive in the desert
-event: EECB Evoluncheon, April 9, 2021
-event_url: https://www.hawaii.edu/eecb/
-location: University of Hawai'i at Manoa
-summary: A summary of some key adaptations in and my latest eco-physiology research on the Mojave Desert moss *Syntrichia caninervis*.
-abstract:  
+title: Moss with a suntan: The effects of natural ultraviolet radiation on the Mojave Desert moss 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖 𝙘𝙖𝙣𝙞𝙣𝙚𝙧𝙫𝙞𝙨
+event: Southern California Academy of Sciences Annual Meeting, May 7, 2021
+event_url: https://scas.nhm.org/annual-meeting/
+location: Virtual
+summary: The photosynthetic effects of a year-long UV-reduction experiment on natural populations of *Syntrichia caninervis*.
+abstract:  Plants in dryland ecosystems experience extreme daily and seasonal fluctuations in light, temperature, and water availability. We used an in-situ field experiment to uncover the effects of natural and reduced levels of UV radiation on plant color, photosynthetic biology, and the transcriptome in the desiccation-tolerant desert moss Syntrichia caninervis. We tested the hypotheses that: (1) S. caninervis plants develop a darkly pigmented suntan in the presence of UV radiation, and thus will be less darkly pigmented when UV is removed, (2) S. caninervis dissipates excess sunlight in a sustained manner while dry and unable to perform photosynthesis, and (3) a reduction of UV radiation will result in improved recovery of photosynthetic efficiency. UV-filtering windows and UV-transmitting controls windows were placed over S. caninervis cushions in the Mojave Desert for one year before plants were collected and analyzed. All field-collected plants had extremely low photosynthetic efficiency after initial rehydration but recovered over eight days in lab-simulated winter conditions. UV-filtered plants had lower photosynthetic efficiency during recovery, higher concentrations of photoprotective pigments and antioxidants such as zeaxanthin and tocopherols, and lower concentrations neoxanthin and chlorophyll b than plants exposed to near natural UV levels. Furthermore, UV-filtered plants were significantly greener than UV-transmitted or un-manipulated site reference plants, which were dark brown as is characteristic of this species. Field-grown S. caninervis underwent sustained thermal quenching that took days to relax and for efficient photosynthesis to resume. Reduction of solar UV radiation adversely affected recovery of photosynthetic efficiency following rehydration.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-04-09T12:00:00Z"
+date: "2021-05-07T12:00:00Z"
 # date_end: "2019-08-01T15:00:00Z"
 all_day: false
 
