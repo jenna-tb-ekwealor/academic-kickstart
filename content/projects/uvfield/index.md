@@ -2,7 +2,7 @@
 title: The role of UV radiation in photosynthesis in desert mosses
 summary: Combined field and lab experiments on Mojave Desert *Syntrichia caninervis* 
 tags:
-- Field Work
+- field work
 - Syntrichia
 
 # Optional external URL for project (replaces project detail page).
