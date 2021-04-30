@@ -1,6 +1,6 @@
 ---
-title: The photosynthetic effects of reduced UV on desert moss 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖 𝙘𝙖𝙣𝙞𝙣𝙚𝙧𝙫𝙞𝙨
-summary: Year-long UV reduction field experiment on *Syntrichia caninervis* in the Mojave Desert
+title: The interactions of natural UV radiation and photosynthesis in the desert moss 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖 𝙘𝙖𝙣𝙞𝙣𝙚𝙧𝙫𝙞𝙨
+summary: Combined field and lab experiments on Mojave Desert *Syntrichia caninervis* 
 tags:
 - Field Work
 - Syntrichia
@@ -30,4 +30,4 @@ links:
 # slides: example
 ---
 
-Desert and dryland mosses spend much of their time in a desiccated and quiescent state—a strategy that allows them to avoid some physiological stress when water is limited or absent. However, these plants must still deal with consequences of their harsh environment upon rehydration and ‘waking up.’ To understand more about how dryland mosses cope with or limit damage from the environment while desiccated, I am investigating the mechanisms of UV radiation protection in *Syntrichia caninervis* using a year-long UV reduction experiment in the Mojave Desert.
+Desert and dryland mosses spend much of their time in a desiccated and quiescent state; a "strategy" that allows them to avoid some physiological stress when water is limited or absent. However, these plants must still deal with consequences of their harsh environment upon rehydration and ‘waking up.’ To understand more about how dryland mosses cope with or limit damage from the environment while desiccated, I am investigating the role of UV radiation in stress (including desiccation) tolerance and photosynthesis in *Syntrichia caninervis* using a variety of field and laboratory experiments.
