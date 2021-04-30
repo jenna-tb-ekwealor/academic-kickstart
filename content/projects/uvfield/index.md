@@ -1,5 +1,5 @@
 ---
-title: The interactions of natural UV radiation and photosynthesis in the desert moss 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖 𝙘𝙖𝙣𝙞𝙣𝙚𝙧𝙫𝙞𝙨
+title: The role of UV radiation in photosynthesis in desert mosses
 summary: Combined field and lab experiments on Mojave Desert *Syntrichia caninervis* 
 tags:
 - Field Work
