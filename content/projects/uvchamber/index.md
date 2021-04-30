@@ -1,8 +1,8 @@
 ---
-title: The combined effects of UV and desiccation on dryland mosses of the genus 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖
-summary: Transcriptomics & metabolomics of combined desiccation and UV stresses in two species
+title: Overlap in UV radiation and desiccation tolerance in dryland mosses of the genus 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖
+summary: Transcriptomics & metabolomics of combined desiccation and UV stresses
 tags:
-- Bioinformatics
+- bioinformatics
 - Syntrichia
 
 # Optional external URL for project (replaces project detail page).
@@ -29,4 +29,4 @@ links:
 # slides: example
 ---
 
-Desert and dryland mosses spend much of their time in a desiccated and quiescent state—a strategy that allows them to avoid some physiological stress when water is limited or absent. However, these plants must still deal with consequences of their harsh environment upon rehydration and ‘waking up.’ To understand more about how dryland mosses cope with or limit damage from the environment while desiccated, I am investigating the mechanisms UV radiation protection in two dryland mosses from the genus *Syntrichia* using transcriptomcis and metabolomics with controlled growth-chamber experiments.
+Desert and dryland mosses spend much of their time in a desiccated and quiescent state; a strategy that allows them to avoid some physiological stress when water is limited or absent. However, these plants must still deal with consequences of their harsh environment upon rehydration and ‘waking up.’ To understand more about how dryland mosses cope with or limit damage from the environment while desiccated, I am investigating the mechanisms UV radiation protection in two dryland mosses from the genus *Syntrichia* using transcriptomcis and metabolomics with controlled growth-chamber experiments.
