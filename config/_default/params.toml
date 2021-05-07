@@ -86,7 +86,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1001 Valley Life Sciences Bldg., #2465", city = "Berkeley", region = "CA", postcode = "94720", country = "United States", country_code = "US"}
+address = {street = "380 Herndon Pkwy", city = "Herndon", region = "VA", postcode = "20170", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
