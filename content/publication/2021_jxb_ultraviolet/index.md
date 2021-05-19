@@ -39,7 +39,7 @@ featured: false
 
 # links:
 # - name: ""
-url: https://academic.oup.com/jxb/article/72/11/4161/6141413?guestAccessKey=82c84e8f-03ce-4682-8500-76998fd3ddd6
+url: academic.oup.com/jxb/article/72/11/4161/6141413?guestAccessKey=82c84e8f-03ce-4682-8500-76998fd3ddd6
 url_pdf: ''
 url_project: ''
 url_video: ''
