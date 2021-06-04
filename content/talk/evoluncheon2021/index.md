@@ -22,7 +22,7 @@ publishDate: "2020-01-01"
 featured: true
 
 # image:
-  #caption: 'Jenna doing field work in the Mojave Desert'
+  #caption: 'UH logo'
   #focal_point: Right
 
 links:
