@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "The Unix Shell"
   organization = "Smithsonian Institution"
   date_start = "2021-06-21"
-  description = "Software Carpentry Workshop"
+  description = "The Carpentries: Software Carpentry Workshop"
   
   
 [[item]]
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   title = "Introduction to R, Git, Shell, and Reproducible Analysis in R"
   organization = "Berkeley Institute for Data Science"
   date_start = "2019-01-01"
-  description = "Software Carpentry Workshop"
+  description = "The Carpentries: Software Carpentry Workshop"
 
 [[item]]
   title = "Biological Sciences Discipline-Cluster Workshops"
@@ -60,13 +60,13 @@ date_format = "Jan 2006"
   title = "Introduction to Genomics Data Wrangling"
   organization = "Berkeley Institute for Data Science"
   date_start = "2018-08-01"
-  description = "Data Carpentry Workshop"
+  description = "The Carpentries: Data Carpentry Workshop"
   
 [[item]]
   title = "Introduction to R, Git, Shell, and R"
   organization = "Berkeley Institute for Data Science"
   date_start = "2018-07-01"
-  description = "Data Carpentry Workshop"
+  description = "The Carpentries: Data Carpentry Workshop"
 
 +++
 
