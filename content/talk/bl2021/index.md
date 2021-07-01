@@ -1,5 +1,5 @@
 ---
-title: "A global phylogeny of the dryland moss genus 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖"
+title: A global phylogeny of the dryland moss genus 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖
 event: BL2021: Bryophytes, lichens, and northern ecosystems in a changing world
 event_url: bl2021.org
 location: Virtual
