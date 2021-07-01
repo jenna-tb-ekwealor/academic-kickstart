@@ -1,7 +1,7 @@
 ---
 title: Adaptation, acclimation, and refugia How mosses survive and thrive in the desert
 event: California Botanical Society Seminar Series
-event_url: mailchi.mp/3079c8fd6fee/botanyspeakerseries-5210903
+event_url: https://mailchi.mp/3079c8fd6fee/botanyspeakerseries-5210903
 location: Virtual
 summary:While the thought of mosses may conjure up a scene of a damp, dark forest, mosses are actually common in deserts. This talk will cover some of my recent research on the genetic, physiological, and ecological adaptations that mosses in the genus Syntrichia (Pottiaceae) have to survive in the high light and low water habitat of California's Mojave Desert.  
 abstract: While the thought of mosses may conjure up a scene of a damp, dark forest, mosses are actually common in deserts. We'll explore some of the genetic, physiological, and ecological adaptations that mosses in the family Pottiaceae have developed to survive the challenges of high light and low water habitats.
