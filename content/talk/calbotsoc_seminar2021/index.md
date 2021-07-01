@@ -1,5 +1,5 @@
 ---
-title: "Adaptation, acclimation, and refugia- How mosses survive and thrive in the desert"
+title: Adaptation, acclimation, and refugia How mosses survive and thrive in the desert
 event: California Botanical Society Seminar Series
 event_url: mailchi.mp/3079c8fd6fee/botanyspeakerseries-5210903
 location: Virtual
