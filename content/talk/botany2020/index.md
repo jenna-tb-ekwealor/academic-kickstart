@@ -1,8 +1,8 @@
 ---
 title: The effects of natural sunlight and UV radiation on photosynthesis in the Mojave Desert moss, 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖 𝙘𝙖𝙣𝙞𝙣𝙚𝙧𝙫𝙞𝙨
-event: Botany 2019
+event: Botany 2020
 event_url: https://botanyconference.org
-location: Virtual!
+location: Botany 2020 Virtual!
 summary: The photosynthetic effects of a year-long UV-reduction experiment on natural populations of *Syntrichia caninervis*.
 abstract: Desert mosses withstand intense sunlight while desiccated and metabolically inactive. We used in situ field experiments to uncover the effects of natural and reduced levels of UV radiation on maximum Photosystem II (PSII) quantum efficiency (Fv/Fm) and on the relative abundance of photosynthetic pigments and antioxidants in Syntrichia caninervis. We tested the hypothesis that if UV is a stressor, reduction of natural UV levels will result in increased photosynthetic efficiency, but that such reduction will de-harden plants and increase vulnerability to PSII damage with UV exposure. We also measured photosynthetic efficiency over a simulated winter recovery period to assess sustained non-photochemical quenching (NPQ) and its subsequent relaxation. Finally, we measured the effect of UV reduction on photosynthetic pigment and antioxidant abundance. All field-collected plants had low Fv/Fm at collection but recovered over eight days in winter conditions. Plants in the low-UV treatment had lower Fv/Fm during recovery than those exposed to natural UV levels and had higher zeaxanthin, lutein, tocopherols, and a higher ratio of chlorophyll a to chlorophyll b. Natural S. caninervisundergoes sustained NPQ that takes days to relax and for efficient photosynthesis to resume. Reduction of UV radiation from sunlight has adverse effects on recovery of Fv/Fm.
 # Talk start and end times.
