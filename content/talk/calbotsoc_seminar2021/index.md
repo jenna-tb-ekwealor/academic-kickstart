@@ -8,7 +8,7 @@ abstract: While the thought of mosses may conjure up a scene of a damp, dark for
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-03-29T12:00:00Z"
+date: "2021-06-10T12:00:00Z"
 # date_end: "2019-08-01T15:00:00Z"
 all_day: false
 
