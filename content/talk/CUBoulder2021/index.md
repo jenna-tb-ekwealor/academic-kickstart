@@ -1,14 +1,14 @@
 ---
-title: How mosses survive and thrive in the desert
-event: Garden Seminar Series, March 29, 2021
+title: How mosses thrive in the desert: Adaptation, acclimation, and refugia
+event: Department of Ecology and Evolutionary Biology Colloquium
 event_url: []
-location: UC Botanical Garden
+location: University of Colorado, Boulder
 summary: A summary of some key adaptations in and my latest eco-physiology research on the Mojave Desert moss *Syntrichia caninervis*.
 abstract: While the thought of mosses may conjure up a scene of a damp, dark forest, mosses are actually common in deserts. We'll explore some of the genetic, physiological, and ecological adaptations that mosses in the family Pottiaceae have developed to survive the challenges of high light and low water habitats.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-03-29T12:00:00Z"
+date: "2021-09-03T12:00:00Z"
 # date_end: "2019-08-01T15:00:00Z"
 all_day: false
 
@@ -66,3 +66,4 @@ math: true
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qHgmCpkEmrA?start=2&autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
