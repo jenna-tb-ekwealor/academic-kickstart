@@ -1,5 +1,5 @@
 ---
-title: How mosses thrive in the desert: Adaptation, acclimation, and refugia
+title: "How mosses thrive in the desert: Adaptation, acclimation, and refugia"
 event: Department of Ecology and Evolutionary Biology Colloquium
 event_url: []
 location: University of Colorado, Boulder
