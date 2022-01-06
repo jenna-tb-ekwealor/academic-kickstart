@@ -1,5 +1,5 @@
 ---
-title: Adaptation, acclimation, and refugia- How mosses survive and thrive in the desert
+title: "Adaptation, acclimation, and refugia: How mosses survive and thrive in the desert"
 event: EECB Evoluncheon, April 9, 2021
 event_url: https://www.hawaii.edu/eecb/
 location: University of Hawai'i at Manoa
