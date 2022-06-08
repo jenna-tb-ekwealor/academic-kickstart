@@ -3,7 +3,7 @@ title: "Bringing to light the effects of full-spectrum sunlight on a desert moss
 event: Department of Ecology and Evolutionary Biology Seminar
 event_url: []
 location: University of Tennessee, Knoxville
-summary: A summary of some key adaptations in and my latest eco-physiology research on the Mojave Desert moss *Syntrichia caninervis*.
+summary: Genetic, physiological, and ecological adaptations that mosses in the family Pottiaceae have developed to survive the challenges of high light and low water habitats.
 abstract: While the thought of mosses may conjure up a scene of a damp, dark forest, mosses are actually common in deserts. We'll explore some of the genetic, physiological, and ecological adaptations that mosses in the family Pottiaceae have developed to survive the challenges of high light and low water habitats.
 
 # Talk start and end times.
