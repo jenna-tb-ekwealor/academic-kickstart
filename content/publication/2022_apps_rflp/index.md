@@ -1,5 +1,5 @@
 ---
-title: "Transcriptomic effects of acute ultraviolet radiation exposure on two 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖 mosses"
+title: "Genotypic confirmation of a biased phenotypic sex ratio in a dryland moss using restriction fragment length polymorphisms"
 authors:
 - Jenna T. B. Ekwealor*
 - Simone D. Benjamiin
