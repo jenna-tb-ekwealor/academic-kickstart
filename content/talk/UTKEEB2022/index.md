@@ -4,7 +4,7 @@ event: Department of Ecology and Evolutionary Biology Seminar
 event_url: []
 location: University of Tennessee, Knoxville
 summary: Genetic, physiological, and ecological adaptations that mosses in the family Pottiaceae have developed to survive the challenges of high light and low water habitats.
-abstract: While the thought of mosses may conjure up a scene of a damp, dark forest, mosses are actually common in deserts. We'll explore some of the genetic, physiological, and ecological adaptations that mosses in the family Pottiaceae have developed to survive the challenges of high light and low water habitats.
+abstract: Natural solar radiation, including ultraviolet (UV) radiation, can be damaging to plants, including to important components of plant metabolism. In addition to protecting tissues from dangerous levels of radiation, terrestrial plants must maintain access to sufficient water. Common in drylands, the moss genus *Syntrichia* contains some of the most desiccation-tolerant plants known; these plants can equilibrate to dry air in a state of quiescence and resume normal metabolic activity after rehydration. In this talk, I will present studies investigating the developmental, molecular, and physiological responses to solar radiation and desiccation in two *Syntrichia* species in a variety of field, laboratory, and combined settings, revealing insights on the adaptive mechanisms allowing these organisms to thrive in dryland habitats. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
