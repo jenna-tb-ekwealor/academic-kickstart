@@ -27,8 +27,10 @@ abstract: 'PREMISE OF RESEARCH: Natural populations of many mosses appear highly
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Population Genetics
+- population genetics
 - Syntrichia
+- life history
+- sex ratio
 featured: false
 
 # links:
