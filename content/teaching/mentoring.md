@@ -8,14 +8,22 @@ title = "Mentoring"
 subtitle = ""
 
 +++
-## Undergraduate Research Apprenticeship Program, UC Berkeley
+## Data Science Lab Summer Internship, University of California, Santa Barbara (UCSB)-Smithsonian Scholars Program
 
 ### Current mentees
 
-* Jordan Jomsky, UCB Class of 2021
+* Kayla Geronimo-Anctil, California State University, Channel Islands
 
 ### Former mentees
 
+* Dalila Lara, University of California, Santa Barbara
+
+
+## Undergraduate Research Apprenticeship Program, University of California, Berkeley (UCB)
+
+### Former mentees
+
+* Jordan Jomsky, UCB Class of 2021
 * Dean Berkowitz, UCB Class of 2020
 * Heloise Carion, UCB Class of 2021
 * Shloka Reddy, UCB Class of 2021
