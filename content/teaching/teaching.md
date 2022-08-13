@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Merritt College, Peralta Community College District"
   date_start = "2020-10-27"
   date_end = "2020-12-18"
-  description = "Natural History of the Bay Area: Bryophytes. Course syllabus [here](https://drive.google.com/file/d/1A7dGYxRTLuyIe_QOVuEY-WOFt1iH87-N/view)."
+  description = "Natural History of the Bay Area: Bryophytes [(syllabus)](https://drive.google.com/file/d/1A7dGYxRTLuyIe_QOVuEY-WOFt1iH87-N/view)"
 
 [[experience]]
   title = "Grader"
