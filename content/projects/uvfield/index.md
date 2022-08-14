@@ -1,5 +1,5 @@
 ---
-title: The role of UV radiation in photosynthetic biology of desert mosses
+title: Photosynthetic biology of desert mosses
 summary: Combined field and lab experiments on Mojave Desert *Syntrichia caninervis* 
 tags:
 - field work
