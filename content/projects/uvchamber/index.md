@@ -1,5 +1,5 @@
 ---
-title: Overlap in UV radiation and desiccation tolerance in dryland mosses of the genus 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖
+title: Stress tolerance in dryland mosses
 summary: Transcriptomics & metabolomics of combined desiccation and UV stresses
 tags:
 - bioinformatics
