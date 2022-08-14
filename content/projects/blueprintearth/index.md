@@ -1,5 +1,5 @@
 ---
-title: Spatial phylogenetics of vascular plants in the Mojave National Preserve
+title: Spatial phylogenetics in the Mojave National Preserve
 summary: In collaboration with non-profit Blueprint Earth, an assessment of the phylogenetic diversity of a unique region of the Mojave Desert
 tags:
 #- Syntrichia
