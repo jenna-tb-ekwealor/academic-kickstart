@@ -1,5 +1,5 @@
 ---
-title: Extreme female-biased sex ratios 
+title: Extremely female-biased sex ratios 
 summary: Comparing genotypic and phenotypic sex ratios in *Syntrichia caninervis*, which has one of the most extreme female-biased sex ratio of any plant 
 tags:
 - Syntrichia
