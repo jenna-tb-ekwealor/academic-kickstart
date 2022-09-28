@@ -1,6 +1,6 @@
 ---
 title: UV tolerance in Mojave Desert mosses
-event: Botany 2019
+event: BOTANY 2019
 event_url: https://botanyconference.org
 location: Tucson, Arizona
 summary: The photosynthetic and transcriptomic effects of a year-long UV-reduction experiment on natural populations of *Syntrichia caninervis*.

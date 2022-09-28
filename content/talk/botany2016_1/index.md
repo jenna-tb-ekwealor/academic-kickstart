@@ -1,6 +1,6 @@
 ---
 title: Desert terraria, characterization of a Mojave Desert moss community under quartz rocks
-event: Botany 2016
+event: BOTANY 2016
 event_url: http://2016.botanyconference.org
 location: Savannah, Georgia, USA
 summary: 
