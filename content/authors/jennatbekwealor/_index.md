@@ -80,7 +80,16 @@ email: jenna.ekwealor@gmail.com
 
 
 
-I'm a Biodiversity Genomics Postdoctoral Fellow at the Smithsonian Institution <a href="https://datascience.si.edu" target="_blank">Data Science Lab</a>. I am fascinated by the very small: those organisms that are easily overlooked by macrobes like ourselves. I am also excited by extremophiles: those that can survive and thrive in conditions thought to be difficult for life itself. These interests come together in studying mosses. These small plants have found a way to only truly ‘live’ when conditions are right (that is, when enough water is present), and dry out and go quiescent when water is absent. For desert mosses that is most of the time! Yet, almost miraculously, dryland mosses are able to quickly begin to grow and thrive again, while recovering from damage that accumulated while they were desiccated. I find this process fascinating and I am interested in thinking about the evolutionary (both micro and macro) implications of this way of life.
+# I'm a Biodiversity Genomics Postdoctoral Fellow at the Smithsonian Institution <a href="https://datascience.si.edu" target="_blank">Data Science Lab</a>. 
+I am an organismal biologist who integrates plant physiology, phylogenetics, ecology, and evolutionary geneticsto understand plant evolution and adaptations to life on land.
+In particular, I focus on three areas: (I) the mechanisms of stress tolerance, (II) the processes that generate and maintain diversity of life history and sexual systems, 
+and (III) the evolutionary history of adaptation to extreme environments. 
+I am fascinated by the very small: those organisms that are easily overlooked. 
+I am also excited by extremophiles: those that can survive and thrive in conditions thought to be difficult for life itself. 
+These interests come together in studying mosses. 
+These small plants have found a way to only truly "live" when conditions are right (that is, when water is present), drying and going quiescent when water is absent. 
+My research to date has focused on the moss genus <i>Syntrichia</i>, whose species are key primary producers in biological soil crusts (biocrusts), complex communities of bryophytes, lichens, and other microorganisms living on the soil surface of drylands.
+
 <br>
 <center><h2><a href="https://blacklivesmatter.com" target="_blank">BLACK LIVES MATTER</h2></center></a>
 
