@@ -1,6 +1,6 @@
 ---
 title:  Generation and maintenance of diversity of life history and sexual systems
-summary: 
+summary: Although a balanced sex ratio based on sex chromosomes is expected in spores after meiosis, <i>S. caninervis</i> is notable for its extremely strong sex ratio bias and low frequency of sexual reproduction.
 tags:
 - Syntrichia
 
