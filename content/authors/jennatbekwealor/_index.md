@@ -79,9 +79,6 @@ email: jenna.ekwealor@gmail.com
 # - Visitors
 ---
 
-
-
-# I'm a Biodiversity Genomics Postdoctoral Fellow at the Smithsonian Institution <a href="https://datascience.si.edu" target="_blank">Data Science Lab</a>. 
 I am an organismal biologist who integrates plant physiology, phylogenetics, ecology, and evolutionary geneticsto understand plant evolution and adaptations to life on land.
 In particular, I focus on three areas: (I) the mechanisms of stress tolerance, (II) the processes that generate and maintain diversity of life history and sexual systems, 
 and (III) the evolutionary history of adaptation to extreme environments. 
