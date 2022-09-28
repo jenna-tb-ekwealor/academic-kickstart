@@ -1,5 +1,5 @@
 ---
-title: Did the dryland moss genus Syntrichia diversify with aridification of the northern hemisphere?
+title: Did the dryland moss genus 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖 diversify with aridification of the northern hemisphere?
 
 event: BOTANY 2022
 event_url: https://botanyconference.org
