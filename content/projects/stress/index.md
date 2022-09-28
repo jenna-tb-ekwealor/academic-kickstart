@@ -1,6 +1,7 @@
 ---
 title: Stress tolerance in dryland mosses
-summary: 
+summary: Mosses and other biocrust organisms have evolved vegetative desiccation tolerance—the ability to equilibrate to dry air, pausing all metabolic activity until rehydration—making them an excellent model system for studying stress tolerance mechanisms and adaptation to the desiccating and irradiating conditions of terrestrial life.
+
 tags:
 
 # Optional external URL for project (replaces project detail page).
@@ -27,10 +28,6 @@ links:
 # slides: example
 ---
 
-My research focuses on the moss genus <i>Syntrichia</i>, whose species are key primary producers in
-biological soil crusts (biocrusts), complex communities of bryophytes, lichens, and other microorganisms living
-on the soil surface of drylands. These small-but-mighty communities are ecologically critical, performing a
-suite of essential ecosystem services. Mosses and other biocrust organisms have evolved vegetative desiccation
-tolerance—the ability to equilibrate to dry air, pausing all metabolic activity until rehydration—making
-them an excellent model system for studying stress tolerance mechanisms and adaptation to the desiccating and
-irradiating conditions of terrestrial life.
+My research focuses on the moss genus <i>Syntrichia</i>, whose species are key primary producers in biological soil crusts (biocrusts), complex communities of bryophytes, lichens, and other microorganisms living on the soil surface of drylands. 
+These small-but-mighty communities are ecologically critical, performing a suite of essential ecosystem services. 
+Mosses and other biocrust organisms have evolved vegetative desiccation tolerance—the ability to equilibrate to dry air, pausing all metabolic activity until rehydration—making them an excellent model system for studying stress tolerance mechanisms and adaptation to the desiccating and irradiating conditions of terrestrial life.
