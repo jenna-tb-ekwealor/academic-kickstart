@@ -2,7 +2,7 @@
 title: Desiccation and diversity in dryland mosses; The 3D Moss Project
 summary: An NSF Dimensions of Biodiversity Project; population genetics & phylogenetics of *Syntrichia*
 tags:
-#- *Syntrichia*
+- Syntrichia
 - Biodiversity
 - Phylogenetics
 - Population Genetics

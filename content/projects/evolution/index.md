@@ -1,7 +1,6 @@
 ---
-title: Stress tolerance in dryland mosses
-summary: Mosses and other biocrust organisms have evolved vegetative desiccation tolerance—the ability to equilibrate to dry air, pausing all metabolic activity until rehydration—making them an excellent model system for studying stress tolerance mechanisms.
-
+title: Adaptation to extreme environments
+summary: Mosses and other biocrust organisms have evolved vegetative desiccation tolerance—the ability to equilibrate to dry air, pausing all metabolic activity until rehydration—making them an excellent model system for studying adaptation to the desiccating and irradiating conditions of terrestrial life.
 tags:
 - Syntrichia
 
@@ -9,7 +8,8 @@ tags:
 external_link: ""
 
 Image:
- caption: ""
+ caption: UV-reducing and UV-transmitting windows over <i>Syntrichia caninervis</i> cushions in the Mojave Desert.  
+ focal_point: Smart
 
 links:
 #- icon: twitter
