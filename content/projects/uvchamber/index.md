@@ -1,9 +1,7 @@
 ---
 title: Stress tolerance in dryland mosses
-summary: Transcriptomics & metabolomics of combined desiccation and UV stresses
+summary: 
 tags:
-- bioinformatics
-- Syntrichia
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,4 +27,10 @@ links:
 # slides: example
 ---
 
-Desert and dryland mosses spend much of their time in a desiccated and quiescent state; a strategy that allows them to avoid some physiological stress when water is limited or absent. However, these plants must still deal with consequences of their harsh environment upon rehydration and ‘waking up.’ To understand more about how dryland mosses cope with or limit damage from the environment while desiccated, I am investigating the mechanisms UV radiation protection in two dryland mosses from the genus *Syntrichia* using transcriptomcis and metabolomics with controlled growth-chamber experiments.
+My research focuses on the moss genus <i>Syntrichia</i>, whose species are key primary producers in
+biological soil crusts (biocrusts), complex communities of bryophytes, lichens, and other microorganisms living
+on the soil surface of drylands. These small-but-mighty communities are ecologically critical, performing a
+suite of essential ecosystem services. Mosses and other biocrust organisms have evolved vegetative desiccation
+tolerance—the ability to equilibrate to dry air, pausing all metabolic activity until rehydration—making
+them an excellent model system for studying stress tolerance mechanisms and adaptation to the desiccating and
+irradiating conditions of terrestrial life.
