@@ -24,6 +24,7 @@ bio: I am a Biodiversity Genomics Postdoctoral Fellow studying evolutionary eco-
 interests:
 - Evolutionary Biology
 - Eco-physiology
+- Genetics & Genomics
 - Botany
 - Data Science & Bioinformatics
 - Fine Arts
@@ -85,7 +86,7 @@ I am an organismal biologist who integrates plant physiology, phylogenetics, eco
 In particular, I focus on three areas: (I) the mechanisms of stress tolerance, (II) the processes that generate and maintain diversity of life history and sexual systems, 
 and (III) the evolutionary history of adaptation to extreme environments. 
 I am fascinated by the very small: those organisms that are easily overlooked. 
-I am also excited by extremophiles: those that can survive and thrive in conditions thought to be difficult for life itself. 
+I am also excited by extremophiles: those that can thrive in conditions thought to be difficult for life itself. 
 These interests come together in studying mosses. 
 These small plants have found a way to only truly "live" when conditions are right (that is, when water is present), drying and going quiescent when water is absent. 
 My research to date has focused on the moss genus <i>Syntrichia</i>, whose species are key primary producers in biological soil crusts (biocrusts), complex communities of bryophytes, lichens, and other microorganisms living on the soil surface of drylands.
