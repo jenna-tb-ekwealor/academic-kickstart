@@ -10,12 +10,10 @@ subtitle = ""
 +++
 ## Data Science Lab Summer Internship, University of California, Santa Barbara (UCSB)-Smithsonian Scholars Program
 
-### Current mentees
-
-* Kayla Geronimo-Anctil, California State University, Channel Islands
 
 ### Former mentees
 
+* Kayla Geronimo-Anctil, California State University, Channel Islands
 * Dalila Lara, University of California, Santa Barbara
 
 
