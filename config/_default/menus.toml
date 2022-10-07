@@ -66,10 +66,6 @@
   weight = 3
   parent = "Teaching"
 
-  [[main]]
-  name = "Photo Gallery"
-  url = "/gallery"
-  weight = 60
 
   [[main]]
   name = "Fine Art"
