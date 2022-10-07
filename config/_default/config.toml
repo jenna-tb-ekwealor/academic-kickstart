@@ -19,12 +19,6 @@ copyright = "Jenna T. B. Ekwealor &copy; {year}"
 googleAnalytics = "UA-148575642-1"
 
 
-frontmatter:
-  date:
-  - myDate
-  - :default
-
-
 ############################
 ## Advanced options below ##
 ############################
