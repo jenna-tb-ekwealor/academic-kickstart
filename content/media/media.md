@@ -12,6 +12,9 @@ subtitle = ""
   columns = "1"
 +++
 <h2>Print & Online</h2>
+<h3><a href="https://www.scientificamerican.com/article/the-moss-that-lives-under-a-rock/" target="_blank"><i>Scientific American</i></a></h3>
+Frazer, Jennifer. <b>“The Moss That Lives under a Rock.”</b> 2 October 2020. Accessed 7 October 2022.
+
 <h3><a href="https://www.smithsonianmag.com/smart-news/desert-moss-beats-heat-growing-under-quartz-crystals-180975624/" target="_blank"><i>Smithsonian Magazine</i></a></h3>
 Fox, Alex. <b>“Desert Moss Beats Heat by Growing Under Quartz Crystals.”</b> 21 August 2020. Accessed 23 August 2020.
 
