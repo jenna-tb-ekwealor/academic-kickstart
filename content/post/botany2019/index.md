@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Botany 2019 in Tucson, Arizona"
+title: "BOTANY 2019 in Tucson, Arizona"
 subtitle: ""
 summary: "Re-cap of a large, national conference with many participating professional societies."
 authors: []
