@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   title = "Wonders of a Dryland moss: Syntrichia from genomes to ecosystems"
   organization = "Jepson Herbarium"
   date_start = "2021-01-30"
-  description = "Hosted in partnership between the Jepson Herbarium and the collaborative research project 3DMoss: Desiccation and Diversity in Dryland Mosses, with funding provided by the US National Science Foundation under the Dimensions of Biodiversity program. More info and recordings [here](https://3dmoss.berkeley.edu/community-outreach/public-workshops/wonders-of-a-dryland-moss/)"
+  description = "Hosted in partnership between the Jepson Herbarium and the collaborative research project 3DMoss: Desiccation and Diversity in Dryland Mosses, with funding provided by the US National Science Foundation under the Dimensions of Biodiversity program. More info and recordings [here](https://3dmoss.berkeley.edu/community-outreach/public-workshops/wonders-of-a-dryland-moss/)."
 
   
 [[item]]
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   organization = "University of California, Berkeley"
   date_start = "2019-03-01"
   date_end = ""
-  description = "Expanding Your Horizons, a STEM workshop for middle-school aged girls"
+  description = "Expanding Your Horizons, a STEM workshop for middle-school aged girls. More info [here]("https://3dmoss.berkeley.edu/2019/03/13/biocrust-workshop-for-middle-schoolers/")."
 
 [[item]]
   title = "Introduction to R, Git, Shell, and Reproducible Analysis in R"
