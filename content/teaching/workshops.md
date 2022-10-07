@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   organization = "University of California, Berkeley"
   date_start = "2019-03-01"
   date_end = ""
-  description = "Expanding Your Horizons, a STEM workshop for middle-school aged girls. More info [here]("https://3dmoss.berkeley.edu/2019/03/13/biocrust-workshop-for-middle-schoolers/")."
+  description = "Expanding Your Horizons, a STEM workshop for middle-school aged girls. More info [here](https://3dmoss.berkeley.edu/2019/03/13/biocrust-workshop-for-middle-schoolers/)."
 
 [[item]]
   title = "Introduction to R, Git, Shell, and Reproducible Analysis in R"
