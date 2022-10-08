@@ -79,7 +79,7 @@ email: jenna.ekwealor@gmail.com
 # - Visitors
 ---
 
-I am an organismal biologist who integrates plant physiology, phylogenetics, ecology, and evolutionary geneticsto understand plant evolution and adaptations to life on land.
+I am an organismal biologist who integrates plant physiology, phylogenetics, ecology, and evolutionary genetics to understand plant evolution and adaptations to life on land.
 In particular, I focus on three areas: (I) the mechanisms of stress tolerance, (II) the processes that generate and maintain diversity of life history and sexual systems, 
 and (III) the evolutionary history of adaptation to extreme environments. 
 I am fascinated by the very small: those organisms that are easily overlooked. 
