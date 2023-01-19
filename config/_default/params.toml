@@ -6,7 +6,7 @@
 ############################
 
 # static/img should now be static/media. instead changing all references in md files, adding a redirect here
-media_dir = "img" 
+media_dir = "img"
 
 # Choose a theme.
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
@@ -276,14 +276,6 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
-
-############################
-## Content Management System
-############################
-[cms]
-  # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = true
-
 
 
 # PLACE THIS NEW [CMS] CONFIG SECTION AT THE END OF THE FILE
