@@ -37,11 +37,23 @@ removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issu
 paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-
+ignoreFiles = [
+  "\\.ipynb$",
+  ".ipynb_checkpoints$",
+  "\\.Rmd$",
+  "\\.Rmarkdown$",
+  "_cache$"
+]
 [outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
-  section = [ "HTML", "RSS" ]
+home = [
+  "HTML",
+  "RSS",
+  "JSON",
+  "WebAppManifest",
+  "headers",
+  "redirects"
+]
+section = [ "HTML", "RSS" ]
 
 [mediaTypes."application/manifest+json"]
   suffixes = ["webmanifest"]
@@ -59,22 +71,18 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   extensions = ["backslashLineBreak"]
 
 [imaging]
-  resampleFilter = "lanczos"
-  quality = 90
-  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
+resampleFilter = "lanczos"
+quality = 75
+anchor = "smart"
 
-# Taxonomies.
 [taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
-  author = "authors"
-
+tag = "tags"
+category = "categories"
+publication_type = "publication_types"
+author = "authors"
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+_merge = "deep"
 
 
 [module]
@@ -94,3 +102,41 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   tags = "/tag/:slug/"
   categories = "/category/:slug/"
   publication_types = "/publication-type/:slug/"
+
+
+
+
+enableRobotsTXT = true
+
+
+disableAliases = true
+timeout = 600_000
+
+
+
+
+
+
+[related]
+threshold = 80
+includeNewer = true
+toLower = true
+
+  [[related.indices]]
+  name = "tags"
+  weight = 100
+
+  [[related.indices]]
+  name = "categories"
+  weight = 70
+
+[security]
+_merge = "deep"
+
+[sitemap]
+_merge = "deep"
+
+[minify]
+_merge = "deep"
+
+
